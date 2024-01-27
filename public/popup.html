@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="https://baltic-rails.web.app/"/>
+    <title>Oops</title>
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  </head>
+  <body>
+    <header>
+        <h1>Abandoned Baltic Rails</h1>
+    </header>
+    <table>\
+      <tr>\
+          <td colspan="2"><strong>Station Name</strong><br />' + (feature.properties['Station Name'] !== null ? autolinker.link(feature.properties['Station Name'].toLocaleString()) : '') + '</td>\
+      </tr>\
+      <tr>\
+          <th scope="row">Service Status</th>\
+          <td class="visible-with-data" id="Service Status">' + (feature.properties['Service Status'] !== null ? autolinker.link(feature.properties['Service Status'].toLocaleString()) : '') + '</td>\
+      </tr>\
+      <tr>\
+          <th scope="row">Station Notes</th>\
+          <td>' + (feature.properties['Station Notes'] !== null ? autolinker.link(feature.properties['Station Notes'].toLocaleString()) : '') + '</td>\
+      </tr>\
+      <tr>\
+          <th scope="row">Line Name</th>\
+          <td class="visible-with-data" id="Line Name">' + (feature.properties['Line Name'] !== null ? autolinker.link(feature.properties['Line Name'].toLocaleString()) : '') + '</td>\
+      </tr>\
+      <tr>\
+          <th scope="row">Year Opened</th>\
+          <td class="visible-with-data" id="Year Opened">' + (feature.properties['Year Opened'] !== null ? autolinker.link(feature.properties['Year Opened'].toLocaleString()) : '') + '</td>\
+      </tr>\
+      <tr>\
+          <th scope="row">Gauge</th>\
+          <td class="visible-with-data" id="Gauge">' + (feature.properties['Gauge'] !== null ? autolinker.link(feature.properties['Gauge'].toLocaleString()) : '') + '</td>\
+      </tr>\
+  </table>
+    <footer>
+      <p>AAAAAAAAAAAAAAAAAAAAAAAAAAAAA.yipyapyop 2024</p>
+    </footer>
+  </body>
+</html>

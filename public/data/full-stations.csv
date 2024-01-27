@@ -1,0 +1,582 @@
+﻿Station ID,Station Name,Town,Region,Country,Latitude (N),Longitude (E),Building Condition,Service Status,Status Year,Station Notes,Stop Sequence,Line ID,Line Name,Year Opened,Gauge,Line Status,Status Year.1,Notes,Is in NP-M
+1,Pärnu,Pärnu,Pärnu maakond,Estonia,58.372409,24.55566,Ruined/Disused,Closed,2018,New station (opened 2018),1,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+2,Pärnu,Pärnu,Pärnu maakond,Estonia,58.359444,24.572778,Ruined/Disused,Closed,2014,Old station (opened 1976),2,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+3,Vaskrääma,Pärnu,Pärnu maakond,Estonia,58.295389,24.670813,Residential,Closed,1996,,3,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+4,Surju,Jaamaküla,Pärnu maakond,Estonia,58.251432,24.743746,Residential,Closed,1996,,4,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+5,Riisselja,Sigaste,Pärnu maakond,Estonia,58.212537,24.821608,Dismantled/Not built,Closed,1975,,5,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+5,Riisselja,Sigaste,Pärnu maakond,Estonia,58.212537,24.821608,Dismantled/Not built,Closed,1975,,1,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+6,Sigaste,Sigaste,Pärnu maakond,Estonia,58.179016,24.902263,Residential,Closed,1996,"Nearest road - 58.181987, 24.896996",6,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+7,Kilingi-Nõmme,Kilingi-Nõmme,Pärnu maakond,Estonia,58.151809,24.980583,Residential,Closed,1996,Sign remains,7,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+8,Tihemetsa,Leipste,Pärnu maakond,Estonia,58.136861,25.028861,Dismantled/Not built,Closed,1996,,8,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+9,Mõisaküla,Mõisaküla,Pärnu maakond,Estonia,58.092799,25.187871,Non-railway use,Closed,1996,Museum,9,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+10,Ristiküla,Ristiküla,Pärnu maakond,Estonia,58.194118,24.746249,Residential,Closed,1975,Off the main road,2,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+11,Timmkanali,Kõveri,Pärnu maakond,Estonia,58.145856,24.687848,Dismantled/Not built,Closed,1975,,3,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+12,Laiksaare,Nepste,Pärnu maakond,Estonia,58.088611,24.630953,Dismantled/Not built,Closed,1975,,4,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+13,Massiaru,Massiaru,Pärnu maakond,Estonia,58.002902,24.565027,Dismantled/Not built,Closed,1975,"Presumed demolished, not visible on map",5,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+14,Teaste,Majaka,Pärnu maakond,Estonia,57.95977,24.5333,Dismantled/Not built,Closed,1975,,6,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+15,Orajõe,Metsapoole,Pärnu maakond,Estonia,57.903263,24.436563,Dismantled/Not built,Closed,1975,,7,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+16,Ikla,Ikla,Pärnu maakond,Estonia,57.877217,24.367527,Residential,Closed,1975,,8,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+17,Ainaži,Ainaži,Limbažu novads,Latvia,57.869711,24.359375,Non-railway use,Closed,1977,Museum,9,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
+17,Ainaži,Ainaži,Limbažu novads,Latvia,57.869711,24.359375,Non-railway use,Closed,1977,Museum,1,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+18,Valga,Valga,Valga maakond,Estonia,57.774717,26.053239,Active,Operational,2024,,1,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+18,Valga,Valga,Valga maakond,Estonia,57.774717,26.053239,Active,Operational,2024,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+18,Valga,Valga,Valga maakond,Estonia,57.774717,26.053239,Active,Operational,2024,,1,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+19,Valka,Valka,Valkas novads,Latvia,57.773581,26.003783,Ruined/Disused,Closed,1944,Info outside,2,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+19,Valka,Valka,Valkas novads,Latvia,57.773581,26.003783,Ruined/Disused,Closed,1944,Info outside,1,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+20,Pedele,Pedele,Valkas novads,Latvia,57.810735,25.922861,Dismantled/Not built,Closed,1944,,3,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+21,Ērģeme,Ērģeme,Valkas novads,Latvia,57.837575,25.82945,Residential,Closed,1944,,4,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+22,Omuļi,Ērģeme,Valkas novads,Latvia,57.857871,25.75264,Dismantled/Not built,Closed,1944,,5,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+23,Piksāri,Piksāri,Valmieras novads,Latvia,57.888267,25.583507,Dismantled/Not built,Closed,1944,,6,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+24,Naukšēni,Naukšēni,Valmieras novads,Latvia,57.887355,25.458157,Residential,Closed,1944,,7,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+25,Rūjiena,Rūjiena,Valmieras novads,Latvia,57.898677,25.335376,Ruined/Disused,Closed,1977,,8,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+26,Pendiga,Vilpulka,Valmieras novads,Latvia,57.953832,25.270191,Dismantled/Not built,Closed,1996,Converted to 1524 mm in 1977,9,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+26,Pendiga,Vilpulka,Valmieras novads,Latvia,57.953832,25.270191,Dismantled/Not built,Closed,1996,Converted to 1524 mm in 1977,21,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+27,Ķirbiļi,Ķirbēni,Valmieras novads,Latvia,58.00441,25.23903,Dismantled/Not built,Closed,1996,Converted to 1524 mm in 1977,10,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+27,Ķirbiļi,Ķirbēni,Valmieras novads,Latvia,58.00441,25.23903,Dismantled/Not built,Closed,1996,Converted to 1524 mm in 1977,22,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+28,Ipiķi,Ipiķi,Valmieras novads,Latvia,58.069433,25.198744,Ruined/Disused,Closed,1996,Converted to 1524 mm in 1977,11,3,Valka—Rūjiena,1896,750 mm,Dismantled,1977,Section from Rūjiena operating as Rīga—Rūjiena—Ipiķi,FALSE
+28,Ipiķi,Ipiķi,Valmieras novads,Latvia,58.069433,25.198744,Ruined/Disused,Closed,1996,Converted to 1524 mm in 1977,23,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+29,Žuldiņi,Žuldiņas,Valkas novads,Latvia,57.72899,26.14666,Dismantled/Not built,Closed,1944,LV branch,2,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+30,Kaagjärve,Pugritsa,Valga maakond,Estonia,57.74688,26.185058,Residential,Closed,1970,EE branch,3,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+31,Lepa,Lepa,Valga maakond,Estonia,57.7128,26.21918,Residential,Closed,1970,EE branch,4,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+32,Koikküla,Koikküla,Valga maakond,Estonia,57.69203,26.263225,Residential,Closed,1970,EE and LV branches merge,5,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+33,Laanemetsa,Laanemetsa,Valga maakond,Estonia,57.646854,26.319022,Residential,Closed,1970,,6,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+34,Taheva,Taheva,Valga maakond,Estonia,57.628822,26.346535,Residential,Closed,1970,,7,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+35,Hargla,Hargla,Valga maakond,Estonia,57.613365,26.415797,Dismantled/Not built,Closed,1970,Approximate location,8,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+36,Saru,Saru,Võru maakond,Estonia,57.601897,26.476059,Non-railway use,Closed,1970,Industrial,9,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+37,Mõniste,Kuutsi,Võru maakond,Estonia,57.581435,26.529686,Residential,Closed,1970,,10,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+39,Ape,Ape,Smiltenes novads,Latvia,57.53741,26.696116,Non-railway use,Closed,1973,Café,11,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+40,Laicene,Lūšakrogs,Smiltenes novads,Latvia,57.524741,26.742415,Dismantled/Not built,Closed,1973,,12,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+41,Vaidava,karva,Alūksnes novads,Latvia,57.487895,26.824285,Residential,Closed,1973,,13,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+42,Alsviķi,Alsviķi,Alūksnes novads,Latvia,57.452071,26.941777,Dismantled/Not built,Closed,1973,,14,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+43,Alūksne,Alūksne,Alūksnes novads,Latvia,57.412184,27.045598,Active,Operational,2024,,15,4,Valka-Gulbene,1915,750 mm,Partially operational,1973,"Ape-Valga closed 1970, operating as Gulbene-Alūksne",FALSE
+44,Salace,Skalbes,Limbažu novads,Latvia,57.851532,24.469019,Ruined/Disused,Closed,1977,,2,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+45,Lagaste,Zariņi,Limbažu novads,Latvia,57.84115,24.51192,Dismantled/Not built,Closed,1977,,3,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+46,Zonepe,Zonapi,Limbažu novads,Latvia,57.783381,24.590523,Residential,Closed,1977,,4,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+47,Mežkadaga,Mežkadaga,Limbažu novads,Latvia,57.756922,24.618116,Ruined/Disused,Closed,1977,,5,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+48,Pāle,Pāle,Limbažu novads,Latvia,57.70772,24.68796,Residential,Closed,1979,Uncertain,6,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+48,Pāle,Pāle,Limbažu novads,Latvia,57.70772,24.68796,Residential,Closed,1979,Uncertain,3,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
+49,Ārciems,Ārciems,Limbažu novads,Latvia,57.684457,24.797126,Residential,Closed,1979,Uncertain,7,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+49,Ārciems,Ārciems,Limbažu novads,Latvia,57.684457,24.797126,Residential,Closed,1979,Uncertain,4,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
+50,Puikule,Puikules Stacija,Limbažu novads,Latvia,57.655244,24.888882,Ruined/Disused,Closed,2000,,8,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+50,Puikule,Puikules Stacija,Limbažu novads,Latvia,57.655244,24.888882,Ruined/Disused,Closed,2000,,5,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
+50,Puikule,Puikules Stacija,Limbažu novads,Latvia,57.655244,24.888882,Ruined/Disused,Closed,2000,,11,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+51,Pavāri,Ungurpils,Limbažu novads,Latvia,57.760278,24.710833,Dismantled/Not built,Closed,1979,,2,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
+52,Staicele,Staicele,Limbažu novads,Latvia,57.828937,24.763071,Residential,Closed,1979,,1,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
+53,Ozoli,Ozoli,Limbažu novads,Latvia,57.641628,24.93225,Residential,Closed,2000,,9,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+54,Kauguri,Dikļi,Valmieras novads,Latvia,57.618225,24.981684,Dismantled/Not built,Closed,2000,,10,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+55,Dikļi,Dikļi,Valmieras novads,Latvia,57.59666,25.048791,Residential,Closed,2000,,11,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+56,Dauguli,Dikļi,Valmieras novads,Latvia,57.553396,25.126035,Residential,Closed,2000,,12,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+57,Zilaiskalns,Liepas,Valmieras novads,Latvia,57.541139,25.256248,Non-railway use,Closed,1979,Event space,13,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+58,Kocēni,Kocēni,Valmieras novads,Latvia,57.534126,25.338426,Residential,Closed,1979,,14,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+59,Jaņuparks,Valmiera,Valmieras novads,Latvia,57.534599,25.3973,Residential,Closed,1979,,15,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+60,Valmiera,Valmiera,Valmieras novads,Latvia,57.522273,25.440332,Active,Operational,2024,,16,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+60,Valmiera,Valmiera,Valmieras novads,Latvia,57.522273,25.440332,Active,Operational,2024,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+61,Cempi,Cempi,Valmieras novads,Latvia,57.500824,25.552976,Dismantled/Not built,Closed,1970,Approximate location,17,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+62,Jaunvāle,Jaunvāle,Valmieras novads,Latvia,57.482379,25.614982,Residential,Closed,1970,,18,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+63,Bikseja,Bikseja,Smiltenes novads,Latvia,57.471339,25.721103,Dismantled/Not built,Closed,1970,,19,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+64,Stariņi,Stariņi,Smiltenes novads,Latvia,57.471437,25.80876,Dismantled/Not built,Closed,1970,,20,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+65,Smiltene,Smiltene,Smiltenes novads,Latvia,57.430237,25.898648,Residential,Closed,1970,,21,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,"Closed in parts 1970, 1977, 1979",TRUE
+66,Purezers,Puikule,Limbažu novads,Latvia,57.685401,24.877444,Residential,Closed,1998,,12,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+67,Auseklis,Puikule,Limbažu novads,Latvia,57.715821,24.877785,Ruined/Disused,Closed,1998,,13,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+68,Aloja,Aloja,Limbažu novads,Latvia,57.764134,24.884484,Residential,Closed,1998,,14,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+69,Upšas,Aloja,Limbažu novads,Latvia,57.781047,24.924524,Dismantled/Not built,Closed,1996,,15,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+70,Iģe,Ķurbēni,Valmieras novads,Latvia,57.818141,24.974295,Dismantled/Not built,Closed,1996,,16,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+71,Mazsalaca,Mazsalaca,Valmieras novads,Latvia,57.867789,25.053245,Dismantled/Not built,Closed,1996,,17,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+72,Idus,Idus,Valmieras novads,Latvia,57.888117,25.177722,Residential,Closed,1996,,18,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+73,Virķēni,Virķēni,Valmieras novads,Latvia,57.910442,25.247889,Dismantled/Not built,Closed,1996,Approximate location,19,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+84,Ieriķi,Ieriķi,Cēsu novads,Latvia,57.199593,25.173073,Active,Operational,2024,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+84,Ieriķi,Ieriķi,Cēsu novads,Latvia,57.199593,25.173073,Active,Operational,2024,,1,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+74,Skulte,Skulte,Limbažu novads,Latvia,57.333377,24.463017,Active,Operational,2024,,1,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+85,Melturi,Melturi,Cēsu novads,Latvia,57.207214,25.234362,Active,Operational,2024,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+85,Melturi,Melturi,Cēsu novads,Latvia,57.207214,25.234362,Active,Operational,2024,,2,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+75,Ziediņi,Skultes miuža,Limbažu novads,Latvia,57.36242,24.510037,Residential,Closed,1999,,2,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+76,Stiene,Stiene,Limbažu novads,Latvia,57.39502,24.577338,Residential,Closed,1999,,3,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+77,Inte,Inte,Limbažu novads,Latvia,57.409884,24.618666,Residential,Closed,1999,"Station keeper houses used, shelter ruined",4,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+78,Lāde,Nabe,Limbažu novads,Latvia,57.44417,24.671218,Ruined/Disused,Closed,1999,,5,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+79,Lielezers,Limbaži,Limbažu novads,Latvia,57.464946,24.705088,Ruined/Disused,Closed,1999,,6,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+80,Limbaži,Limbaži,Limbažu novads,Latvia,57.509124,24.721768,Non-railway use,Closed,1999,Bus station building,7,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+81,Katvari,Stirnas,Limbažu novads,Latvia,57.548027,24.765084,Dismantled/Not built,Closed,1999,,8,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+82,Neiķene,Pociems,Limbažu novads,Latvia,57.59217,24.823105,Residential,Closed,1999,,9,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+83,Pociems,Pociems,Limbažu novads,Latvia,57.613589,24.847475,Dismantled/Not built,Closed,1999,,10,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+86,Amata,Amata,Cēsu novads,Latvia,57.210366,25.310168,Ruined/Disused,Closed,1999,Platform replaced with a memorial,3,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+87,Rāmuļi,Rāmuļi,Cēsu novads,Latvia,57.21845,25.428826,Residential,Closed,1999,,4,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+88,Meļļi,Meļļi,Cēsu novads,Latvia,57.216836,25.576003,Residential,Closed,1999,,5,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+89,Dzērbene,Dzērbenes Stacija,Cēsu novads,Latvia,57.208567,25.709396,Residential,Closed,1999,,6,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+90,Drusti,Magonas,Smiltenes novads,Latvia,57.190979,25.860665,Residential,Closed,1999,,7,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+91,Ubeja,Mauragi,Cēsu novads,Latvia,57.173405,25.921385,Residential,Closed,1945,Approximate location,8,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+92,Piebalga,Jaunpiebalga,Cēsu novads,Latvia,57.16567,26.008624,Residential,Closed,1999,,9,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+93,Ranka,Lāčpavāriņi,Gulbenes novads,Latvia,57.184782,26.134962,Non-railway use,Closed,1999,Industrial,10,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+94,Uriekste,Kāķupi,Gulbenes novads,Latvia,57.188715,26.250752,Dismantled/Not built,Closed,1999,,11,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+127,Rūjiena,Rūjiena,Valmieras novads,Latvia,57.921209,25.298873,Ruined/Disused,Closed,1996,New station opened 1977,20,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
+95,Lizums,Lizums,Gulbenes novads,Latvia,57.18552,26.367131,Ruined/Disused,Closed,1999,Uncertain,12,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+96,Tirza,Tirza,Gulbenes novads,Latvia,57.173262,26.497353,Ruined/Disused,Closed,1999,,13,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+97,Galgauska,Galgauska,Gulbenes novads,Latvia,57.174389,26.554722,Ruined/Disused,Closed,1999,,14,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+98,Kamalda,Kamalda,Gulbenes novads,Latvia,57.180472,26.652833,Ruined/Disused,Closed,1999,,15,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+99,Gulbene,Gulbene,Gulbenes novads,Latvia,57.182983,26.765067,Active,Operational,2024,,16,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+100,Melnupe,Zeltaleja,Gulbenes novads,Latvia,57.185212,26.849897,Residential,Closed,2001,,17,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+101,Stradi,Antāni,Gulbenes novads,Latvia,57.179695,26.874476,Residential,Closed,1945,,18,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+102,Medņi,Medņi,Gulbenes novads,Latvia,57.187024,26.930502,Dismantled/Not built,Closed,1950,,19,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+103,Ezermala,Medņi,Gulbenes novads,Latvia,57.190948,26.960733,Dismantled/Not built,Closed,1945,,20,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+104,Litene,Litene,Gulbenes novads,Latvia,57.178048,27.003086,Residential,Closed,2001,Uncertain,21,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+105,Pededze,Silava,Gulbenes novads,Latvia,57.176801,27.031615,Dismantled/Not built,Closed,1945,,22,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+106,Sita,Sitas stacija,Balvu novads,Latvia,57.174041,27.10905,Residential,Closed,2001,,23,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+106,Sita,Sitas stacija,Balvu novads,Latvia,57.174041,27.10905,Residential,Closed,2001,,13,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+107,Balvi,Kubuli,Balvu novads,Latvia,57.164962,27.206507,Residential,Closed,2001,Uncertain,24,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+108,Vīksna,Vīksna,Balvu novads,Latvia,57.21696,27.32171,Dismantled/Not built,Closed,2001,,25,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+109,Pakalnieši,Vīksna,Balvu novads,Latvia,57.220651,27.352887,Residential,Closed,1944,,26,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+109,Pakalnieši,Vīksna,Balvu novads,Latvia,57.220651,27.352887,Residential,Closed,1944,,1,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+110,Kuprava,Kuprava,Balvu novads,Latvia,57.23931,27.497519,Ruined/Disused,Closed,2001,,27,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+111,Žīguri,Žīguri,Balvu novads,Latvia,57.262854,27.66571,Ruined/Disused,Closed,2001,,28,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+112,Vecumi,Vecumi,Balvu novads,Latvia,57.213656,27.773228,Ruined/Disused,Closed,2001,,29,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+113,Purvmala,Nosovo,Pskov oblast,Russia,57.11342,27.82248,Ruined/Disused,Closed,2004,,30,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+114,Pitalovo,Pitalovo,Pskov oblast,Russia,57.065393,27.912936,Non-railway use,Closed,2021,,31,7,Ieriķi—Abrene,1902,1520 mm,Dismantled,2001,,TRUE
+114,Pitalovo,Pitalovo,Pskov oblast,Russia,57.065393,27.912936,Non-railway use,Closed,2021,,29,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+115,Stradziņi,Rugāji,Balvu novads,Latvia,57.064104,27.087394,Dismantled/Not built,Closed,1965,Empty spot in a forest,12,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+116,Rugāji,Rugāji,Balvu novads,Latvia,57.007653,27.133502,Residential,Closed,1965,,11,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+117,Kapūne,Zirņusala,Balvu novads,Latvia,56.966795,27.129868,Dismantled/Not built,Closed,1965,,10,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+118,Lazdukalns,Lazdukalns,Balvu novads,Latvia,56.921886,27.112064,Residential,Closed,1965,Uncertain,9,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+119,Galvari,Liepari,Balvu novads,Latvia,56.892112,27.12158,Dismantled/Not built,Closed,1965,,8,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+120,Bērzpils,Bērzpils,Balvu novads,Latvia,56.852341,27.095798,Residential,Closed,1965,,7,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+121,Iča,Silmači,Balvu novads,Latvia,56.826147,27.093916,Residential,Closed,1965,,6,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+122,Strūžāni,Drobas,Rēzeknes novads,Latvia,56.75656,27.111649,Dismantled/Not built,Closed,1965,Bus stop on P36 highway,5,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+123,Gaigola,Pūdinova,Rēzeknes novads,Latvia,56.71468,27.117769,Residential,Closed,1965,,4,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+124,Dricēni,Piļkas,Rēzeknes novads,Latvia,56.659777,27.197626,Residential,Closed,1965,,3,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+125,Kugras,Ķipļuki,Rēzeknes novads,Latvia,56.624294,27.310583,Dismantled/Not built,Closed,1965,,2,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+126,Burzava,Burzova,Rēzeknes novads,Latvia,56.586905,27.345337,Non-railway use,Closed,1999,Freight only,1,8,Rēzekne—Sita,1947,750 mm,Dismantled,2000,Traffic closed 1990,TRUE
+126,Burzava,Burzova,Rēzeknes novads,Latvia,56.586905,27.345337,Non-railway use,Closed,1999,Freight only,20,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+128,Saurieši,Saurieši,Ropažu novads,Latvia,56.916895,24.362179,Non-railway use,Closed,2007,Functions for freight; planned connection for Rail Baltica,1,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+129,Cekule,Cekule,Ropažu novads,Latvia,56.920152,24.401829,Ruined/Disused,Closed,2007,Destroyed by 2013 fire,2,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+130,Jauncekule,Cekule,Ropažu novads,Latvia,56.922057,24.425837,Dismantled/Not built,Closed,2007,,3,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+131,Ķivuļi,Ķivuļi,Ropažu novads,Latvia,56.925793,24.465887,Residential,Closed,2007,,4,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+132,Bajāri,Bajāri,Ropažu novads,Latvia,56.934139,24.560071,Dismantled/Not built,Closed,2007,,5,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+133,Kangari,Kangari,Ropažu novads,Latvia,56.937392,24.610429,Ruined/Disused,Closed,2007,,6,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+134,Remīne,Vilasmuiža,Ropažu novads,Latvia,56.946667,24.701389,Dismantled/Not built,Closed,2007,,7,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+135,Augšciems,Augšciems,Ropažu novads,Latvia,56.948724,24.786723,Ruined/Disused,Closed,2007,,8,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+136,Kārde,Kārde,Siguldas novads,Latvia,56.950352,24.842723,Dismantled/Not built,Closed,2007,,9,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+137,Sidgunda,Sidgunda,Siguldas novads,Latvia,56.943561,24.909424,Dismantled/Not built,Closed,2007,,10,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+138,Suntaži,Suntaži,Ogres novads,Latvia,56.910509,24.945565,Non-railway use,Closed,2007,Short-term lease,11,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+139,Kastrāne,Diedziņš,Ogres novads,Latvia,56.90347,25.045627,Dismantled/Not built,Closed,2007,,12,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+140,Vatrāne,Vatrāne,Ogres novads,Latvia,56.898514,25.132935,Dismantled/Not built,Closed,2007,,13,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+141,Ķeipene,Ķeipene,Ogres novads,Latvia,56.895839,25.186908,Non-railway use,Closed,2007,Museum,14,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+142,Plātere,Šķērstēni,Ogres novads,Latvia,56.896111,25.265,Dismantled/Not built,Closed,2007,,15,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+143,Taurupe,Taurupe,Ogres novads,Latvia,56.898104,25.340663,Non-railway use,Closed,2007,Renovated for future use,16,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+144,Līčupe,Braki,Ogres novads,Latvia,56.888776,25.41916,Dismantled/Not built,Closed,2007,,17,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+145,Baltava,Vecogre,Ogres novads,Latvia,56.889722,25.483333,Dismantled/Not built,Closed,2007,,18,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+146,Roplaini,Roplaini,Madonas novads,Latvia,56.890085,25.553878,Dismantled/Not built,Closed,2007,,19,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+147,Ērgļi,Ērgļi,Madonas novads,Latvia,56.895718,25.630873,Non-railway use,Closed,2007,Toursim info point & café,20,9,Rīga Preču—Ērgļi,1937,1520 mm,Dismantled,2009,Traffic closed 2007,TRUE
+148,Liepāja,Liepāja,Liepāja,Latvia,56.523471,21.014464,Active,Operational,2024,,1,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+148,Liepāja,Liepāja,Liepāja,Latvia,56.523471,21.014464,Active,Operational,2024,,1,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+148,Liepāja,Liepāja,Liepāja,Latvia,56.523471,21.014464,Active,Operational,2024,,1,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+148,Liepāja,Liepāja,Liepāja,Latvia,56.523471,21.014464,Active,Operational,2024,,27,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+149,Krustojums,Liepāja,Liepāja,Latvia,56.536167,21.089541,Dismantled/Not built,Closed,1964,,2,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+150,Ezerpils,Grobiņa,Dienvidkurzemes novads,Latvia,56.539336,21.154184,Dismantled/Not built,Closed,1964,,3,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+151,Grobiņa,Grobiņa,Dienvidkurzemes novads,Latvia,56.535852,21.179569,Residential,Closed,1964,,4,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+152,Ilgale,Apogi,Dienvidkurzemes novads,Latvia,56.545435,21.215007,Dismantled/Not built,Closed,1964,Uncertain; missing on map,5,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+153,Rolava,Rolava,Dienvidkurzemes novads,Latvia,56.554211,21.242521,Dismantled/Not built,Closed,1964,,6,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+154,Lieģi,Lieģi,Dienvidkurzemes novads,Latvia,56.586244,21.310386,Residential,Closed,1964,,7,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+155,Aisiņi,Aisteres muiža,Dienvidkurzemes novads,Latvia,56.623776,21.325026,Dismantled/Not built,Closed,1964,Uncertain; missing on map,8,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+156,Rāva,Rāva,Dienvidkurzemes novads,Latvia,56.646485,21.335223,Residential,Closed,1964,,9,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+157,Dunalka,Dunalka,Dienvidkurzemes novads,Latvia,56.673729,21.358188,Residential,Closed,1964,,10,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+158,Cīrava,Akmene,Dienvidkurzemes novads,Latvia,56.691913,21.397155,Ruined/Disused,Closed,1964,"Station further in the forest, location of switchhouse",11,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+159,Marijas muiža,Dzērve,Dienvidkurzemes novads,Latvia,56.712854,21.478354,Residential,Closed,1964,,12,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+160,Aizpute,Aizpute,Dienvidkurzemes novads,Latvia,56.724319,21.58137,Residential,Closed,1964,,13,10,Liepāja—Aizpute,1900,750 mm,Dismantled,1964,Until 1938 - 1000 mm gauge,TRUE
+160,Aizpute,Aizpute,Dienvidkurzemes novads,Latvia,56.724319,21.58137,Residential,Closed,1964,,1,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+161,Rokaiši,Rokaiži,Dienvidkurzemes novads,Latvia,56.72634,21.66479,Dismantled/Not built,Closed,1931,uncertain; in the forest,2,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+162,Kazdanga,Kapši,Dienvidkurzemes novads,Latvia,56.713368,21.762534,Dismantled/Not built,Closed,1931,,3,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+163,Valtaiķi,Valtaiķi,Kuldīgas novads,Latvia,56.697627,21.80536,Residential,Closed,1931,,4,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+164,Leja,Lieknas,Kuldīgas novads,Latvia,56.68145,21.92598,Dismantled/Not built,Closed,1931,Near freight stop Sieksāte,5,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+165,Skrunda,Skrunda,Kuldīgas novads,Latvia,56.674682,22.02572,Dismantled/Not built,Closed,1931,Approximate location,6,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+166,Raņķi,Ciecere,Kuldīgas novads,Latvia,56.67815,22.06643,Dismantled/Not built,Closed,1928,Approximate location,7,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+167,Airīte,Abāri,Saldus novads,Latvia,56.67777,22.14179,Dismantled/Not built,Closed,1928,Approximate location; near O. Kalpaks museum,8,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+168,Zirņi,Zirņi,Saldus novads,Latvia,56.67645,22.21911,Dismantled/Not built,Closed,1928,Shop in the place of station building,9,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+169,Sesile,Bukupe,Saldus novads,Latvia,56.66951,22.3034,Dismantled/Not built,Closed,1928,Approximate location,10,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+170,Saldus,Saldus,Saldus novads,Latvia,56.669,22.48465,Dismantled/Not built,Closed,1928,Approximate location,11,10.1,Aizpute—Skrunda—Saldus,1900,600 mm,Dismantled,1931,,FALSE
+171,Ālande,Grobiņi,Dienvidkurzemes novads,Latvia,56.523834,21.117092,Dismantled/Not built,Closed,1998,Located near present day junction house,1,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+171,Ālande,Grobiņi,Dienvidkurzemes novads,Latvia,56.523834,21.117092,Dismantled/Not built,Closed,1998,Located near present day junction house,2,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+172,Dubeņi,Dubeņi,Dienvidkurzemes novads,Latvia,56.49477,21.18221,Ruined/Disused,Closed,1998,,2,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+172,Dubeņi,Dubeņi,Dienvidkurzemes novads,Latvia,56.49477,21.18221,Ruined/Disused,Closed,1998,,3,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+173,Otanka,Ķīburi,Dienvidkurzemes novads,Latvia,56.394882,21.239922,Residential,Closed,1960,,3,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+174,Bārta,Bārta,Dienvidkurzemes novads,Latvia,56.374894,21.245635,Ruined/Disused,Closed,1960,Uncertain status,4,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+175,Slamste,Slamsti,Dienvidkurzemes novads,Latvia,56.320746,21.210019,Ruined/Disused,Closed,1944,Earthworks from the station grounds,5,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+176,Jēči,Ječi,Dienvidkurzemes novads,Latvia,56.284444,21.191456,Dismantled/Not built,Closed,1944,,6,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+177,Pape,Peši,Dienvidkurzemes novads,Latvia,56.207566,21.134004,Dismantled/Not built,Closed,1944,Paved over by A11,7,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+178,Pūce,Rucava,Dienvidkurzemes novads,Latvia,56.179689,21.155393,Ruined/Disused,Closed,1944,"Multiple buildigns in the area, no streetview",8,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+179,Rucava,Rucava,Dienvidkurzemes novads,Latvia,56.15937,21.15922,Dismantled/Not built,Closed,1944,Approximate location; built over after 1940s,9,11,Liepāja—Rucava,1916,700 mm,Dismantled,1960,Until 1921 - 600 mm gauge,FALSE
+180,Gavieze,Gaviezes stacija,Dienvidkurzemes novads,Latvia,56.465729,21.264124,Residential,Closed,1998,,4,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+181,Susta,Krīzberga,Dienvidkurzemes novads,Latvia,56.444486,21.36729,Ruined/Disused,Closed,1998,,5,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+182,Krogzemji,Krogzemji,Dienvidkurzemes novads,Latvia,56.433111,21.443113,Dismantled/Not built,Closed,1998,,6,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+183,Paplaka,Paplakas stacija,Dienvidkurzemes novads,Latvia,56.446298,21.496975,Ruined/Disused,Closed,1998,,7,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+184,Priekule,Priekule,Dienvidkurzemes novads,Latvia,56.443394,21.595001,Ruined/Disused,Closed,1998,,8,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+184,Priekule,Priekule,Dienvidkurzemes novads,Latvia,56.443394,21.595001,Ruined/Disused,Closed,1998,,1,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+185,Elkuzeme,Auguste,Dienvidkurzemes novads,Latvia,56.420355,21.74368,Dismantled/Not built,Closed,1998,Unmarked settlement nearby,9,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+186,Vaiņode,Vaiņode,Dienvidkurzemes novads,Latvia,56.416489,21.855946,"Preserved, uncertain",Closed,1998,,10,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+187,Kazbari,Vaiņode,Dienvidkurzemes novads,Latvia,56.422366,21.92882,Dismantled/Not built,Closed,1998,,11,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+188,Lūšė,Ritinė,Telšių apskritis,Lithuania,56.383534,22.032113,Ruined/Disused,Closed,2003,,12,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+189,Naudvaris,Kugiai,Telšių apskritis,Lithuania,56.365714,22.119223,Dismantled/Not built,Closed,1963,Approximate location & time,13,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+190,Venta,Pumpurai,Telšių apskritis,Lithuania,56.3409,22.2046,Non-railway use,Closed,2003,,14,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+191,Mažeikiai,Mažeikiai,Telšių apskritis,Lithuania,56.31248,22.340135,Active,Operational,2024,,15,12,Liepāja—Vaiņode—Mažeikiai,1871,1520 mm,Freight only,2012,"Dismantled between Ālande and Priekule, freight only",TRUE
+191,Mažeikiai,Mažeikiai,Telšių apskritis,Lithuania,56.31248,22.340135,Active,Operational,2024,,14,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+192,Purmsāti,Purmsāti,Dienvidkurzemes novads,Latvia,56.40428,21.53329,Ruined/Disused,Closed,1980,Approximate time,2,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+193,Kaleti,Ozoli,Dienvidkurzemes novads,Latvia,56.32859,21.52788,Residential,Closed,1980,Approximate time,3,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+194,Skuodas,Skuodas,Klaipėdos apskritis,Lithuania,56.264723,21.492964,Ruined/Disused,Closed,2006,,4,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+195,Paluknė,Žirnikai,Klaipėdos apskritis,Lithuania,56.2231,21.4583,Ruined/Disused,Closed,2006,,5,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+196,Litvinai,Litvinai,Klaipėdos apskritis,Lithuania,56.1771,21.4279,Dismantled/Not built,Closed,2006,,6,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+197,Medininkai,Medininkai,Klaipėdos apskritis,Lithuania,56.132311,21.390399,Dismantled/Not built,Closed,2006,,7,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+198,Nausėdai,Nausėdai,Klaipėdos apskritis,Lithuania,56.078025,21.29887,Residential,Closed,2006,,8,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+199,Darbėnai,Pasertupis,Klaipėdos apskritis,Lithuania,56.014192,21.240379,Ruined/Disused,Closed,2006,,9,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+200,Tūbausiai,Pajuodupiai,Klaipėdos apskritis,Lithuania,55.96746,21.248828,Residential,Closed,2006,,10,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+201,Kretinga,Pajuodupiai,Klaipėdos apskritis,Lithuania,55.886822,21.229695,Active,Operational,2024,,11,12.1,Priekule—Bajorai,1915,1520 mm,Freight only,2001,,FALSE
+202,Tosmare,Liepāja,Liepāja,Latvia,56.53772,21.05266,Dismantled/Not built,Closed,1944,,2,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+203,Kapsēde,Kapsede,Dienvidkurzemes novads,Latvia,56.590061,21.10974,Ruined/Disused,Closed,1996,,3,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+204,Māteri,Ievkalni,Dienvidkurzemes novads,Latvia,56.62953,21.10551,Dismantled/Not built,Closed,1996,,4,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+205,Medze,Medze,Dienvidkurzemes novads,Latvia,56.66069,21.12478,Residential,Closed,1996,Status uncertain,5,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+206,Ploce,Ploce,Dienvidkurzemes novads,Latvia,56.678793,21.135843,Ruined/Disused,Closed,1996,,6,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+207,Vergale,Vergales stacija,Dienvidkurzemes novads,Latvia,56.714242,21.173243,Residential,Closed,1996,,7,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+208,Mežaine,Mežaine,Dienvidkurzemes novads,Latvia,56.785203,21.227202,Residential,Closed,1996,,8,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+209,Saka,Saka,Dienvidkurzemes novads,Latvia,56.852023,21.201671,Ruined/Disused,Closed,1996,,9,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+210,Kursa,Pavilosta,Dienvidkurzemes novads,Latvia,56.877672,21.226647,Ruined/Disused,Closed,1996,,10,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+210,Kursa,Pavilosta,Dienvidkurzemes novads,Latvia,56.877672,21.226647,Ruined/Disused,Closed,1996,,1,13.1,Kursas—Pavilosta,1932,750 mm,Dismantled,1946,"Single-station branch, closed between 1945-1947",FALSE
+211,Pavilosta,Pavilosta,Dienvidkurzemes novads,Latvia,56.886808,21.187288,Dismantled/Not built,Closed,1944,Monument at the station site,2,13.1,Kursas—Pavilosta,1932,750 mm,Dismantled,1946,"Single-station branch, closed between 1945-1947",FALSE
+212,Upenieki,Meņģi,Dienvidkurzemes novads,Latvia,56.887899,21.28345,Residential,Closed,1996,,11,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+213,Riva,Riva,Dienvidkurzemes novads,Latvia,56.911859,21.388131,Ruined/Disused,Closed,1996,,12,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+214,Stirna,Bērzkalni,Kuldīgas novads,Latvia,56.942686,21.497351,Ruined/Disused,Closed,1996,,13,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+215,Alsunga Dienvidu,Alsunga,Kuldīgas novads,Latvia,56.967987,21.549672,Residential,Closed,1996,,14,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+215,Alsunga Dienvidu,Alsunga,Kuldīgas novads,Latvia,56.967987,21.549672,Residential,Closed,1996,,1,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+216,Anuži,Anuži,Kuldīgas novads,Latvia,57.024539,21.578058,Dismantled/Not built,Closed,1996,,15,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+217,Užava,Tērande,Ventspils novads,Latvia,57.090758,21.605469,Ruined/Disused,Closed,1996,,16,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+218,Berziņi,Ziras,Ventspils novads,Latvia,57.145725,21.569812,Dismantled/Not built,Closed,1996,,17,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+219,Zūras,Ventava,Ventspils novads,Latvia,57.224084,21.574473,Residential,Closed,1996,,18,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+220,Meisteri,Varve,Ventspils novads,Latvia,57.30785,21.549791,"Preserved, uncertain",Closed,1996,,19,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+221,Ventspils Dienvidu,Ventspils,Ventspils,Latvia,57.359157,21.572723,Dismantled/Not built,Closed,1996,,20,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+222,Ventspils,Ventspils,Ventspils,Latvia,57.391645,21.592938,Ruined/Disused,Closed,2010,Used for cargo operations,21,13,Liepāja—Ventspils,1928,1520 mm,Dismantled,1996,"Until 1944 750 mm gauge, until 1950s 1435 mm gauge; Alsunga-Ventspils built in 1944",FALSE
+222,Ventspils,Ventspils,Ventspils,Latvia,57.391645,21.592938,Ruined/Disused,Closed,2010,Used for cargo operations,1,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+222,Ventspils,Ventspils,Ventspils,Latvia,57.391645,21.592938,Ruined/Disused,Closed,2010,Used for cargo operations,1,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+222,Ventspils,Ventspils,Ventspils,Latvia,57.391645,21.592938,Ruined/Disused,Closed,2010,Used for cargo operations,15,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+223,Alsunga Ziemeļu,Alsunga,Kuldīgas novads,Latvia,56.977012,21.565411,Ruined/Disused,Closed,1963,,2,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+224,Almale,Almale,Kuldīgas novads,Latvia,56.983074,21.636779,Dismantled/Not built,Closed,1963,,3,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+225,Ēdole,Ēdole,Kuldīgas novads,Latvia,57.012262,21.712403,"Preserved, uncertain",Closed,1963,,4,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+226,Ivande,Mazivande,Kuldīgas novads,Latvia,57.006252,21.780066,Ruined/Disused,Closed,1963,,5,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+227,Padure,Deksne,Kuldīgas novads,Latvia,56.98719,21.86338,Dismantled/Not built,Closed,1963,,6,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+228,Kuldīga,Kuldīga,Kuldīgas novads,Latvia,56.960791,21.976447,Ruined/Disused,Closed,1963,Until 2010 - city bus station,7,14,Alsunga—Kuldīga,1935,750 mm,Dismantled,1974,Part of Liepāja—Alsunga until 1944,TRUE
+229,Stende,Stende,Talsu novads,Latvia,57.143773,22.538581,Ruined/Disused,Closed,2010,,23,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+229,Stende,Stende,Talsu novads,Latvia,57.143773,22.538581,Ruined/Disused,Closed,2010,,7,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+230,Mežapostenis,Ventspils,Ventspils,Latvia,57.403852,21.58176,Residential,Closed,1963,,2,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+231,Dzērvite,Ventspils,Ventspils,Latvia,57.438392,21.61062,Dismantled/Not built,Closed,1963,,3,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+232,Staldzene,Ventspils,Ventspils,Latvia,57.447244,21.623181,Residential,Closed,1963,,4,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+233,Akmeņdziras,Liepene,Ventspils novads,Latvia,57.488595,21.649522,Dismantled/Not built,Closed,1963,,5,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+234,Jaunupe,Jaunupe,Ventspils novads,Latvia,57.525017,21.683703,Residential,Closed,1963,,6,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+235,Oviši,Oviši,Ventspils novads,Latvia,57.56835,21.716974,Residential,Closed,1963,,7,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+236,Renči,Renči,Ventspils novads,Latvia,57.579462,21.764591,Dismantled/Not built,Closed,1963,Uncertain; in the forest,8,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+237,Lūžņa,Lūžņa,Ventspils novads,Latvia,57.593873,21.87149,Residential,Closed,1963,,9,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+238,Miķeļtornis,Miķeļtornis,Ventspils novads,Latvia,57.598238,21.972458,Ruined/Disused,Closed,1963,,10,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+239,Lielirbe,Lielirbe,Ventspils novads,Latvia,57.626378,22.109814,Non-railway use,Closed,1963,Short-term rental,11,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+240,Sīkrags,Sīkrags,Talsu novads,Latvia,57.65341,22.20334,Dismantled/Not built,Closed,1963,Uncertain; in the forest,12,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+241,Mazirbe,Mazirbe,Talsu novads,Latvia,57.67838,22.31407,Residential,Closed,1963,,13,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+242,Šlītere,Jaunmuiža,Talsu novads,Latvia,57.607307,22.28625,Dismantled/Not built,Closed,1963,,14,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+243,Kurči,Mežildzere,Talsu novads,Latvia,57.560353,22.316066,Residential,Closed,1963,,15,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+244,Dundaga,Dundaga,Talsu novads,Latvia,57.506216,22.347904,Non-railway use,Closed,1963,Social security office of Dundaga,16,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+244,Dundaga,Dundaga,Talsu novads,Latvia,57.506216,22.347904,Non-railway use,Closed,1963,Social security office of Dundaga,10,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+245,Plintiņi,Plintiņi,Talsu novads,Latvia,57.438749,22.399556,Residential,Closed,1963,,17,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+246,Cīruļi,Cīruļi,Talsu novads,Latvia,57.374653,22.478742,Residential,Closed,1963,,18,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+247,Indiņi,Pūņas,Talsu novads,Latvia,57.328962,22.518965,Dismantled/Not built,Closed,1963,,19,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+248,Valdgale,Valdgale,Talsu novads,Latvia,57.279657,22.572568,Residential,Closed,1963,,20,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+248,Valdgale,Valdgale,Talsu novads,Latvia,57.279657,22.572568,Residential,Closed,1963,,1,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+248,Valdgale,Valdgale,Talsu novads,Latvia,57.279657,22.572568,Residential,Closed,1963,,1,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+249,Talsi,Talsi,Talsu novads,Latvia,57.248298,22.57944,Non-railway use,Closed,1963,Bus station,21,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+250,Dižstende,Dižstende,Talsu novads,Latvia,57.18952,22.560528,Residential,Closed,1963,Until 1940 - Stendesmuiža,22,15,Ventspils—Mazirbe—Dundaga—Stende,1916,600 mm,Dismantled,1963,Maximum extent in 1939,TRUE
+251,Laidze,Laidze,Talsu novads,Latvia,57.313349,22.662194,Residential,Closed,1963,,2,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+252,Sārcene,Cērpas,Talsu novads,Latvia,57.314633,22.704307,Dismantled/Not built,Closed,1963,,3,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+253,Vandzene,Vandzene,Talsu novads,Latvia,57.306596,22.771645,Dismantled/Not built,Closed,1963,,4,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+254,Okte,Igene,Talsu novads,Latvia,57.281846,22.822948,Dismantled/Not built,Closed,1963,,5,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+255,Pļava,Pļavas,Talsu novads,Latvia,57.262595,22.894668,Ruined/Disused,Closed,1963,,6,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+256,Engure,Ķūļciems,Talsu novads,Latvia,57.269645,23.029966,Residential,Closed,1963,,7,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+257,Ķipati,Ķipatciems,Talsu novads,Latvia,57.327226,23.052397,Residential,Closed,1963,,8,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+258,Mērsrags,Mērsrags,Talsu novads,Latvia,57.33411,23.119019,Residential,Closed,1963,,9,16,Valdgale—Mērsrags,1920,600 mm,Dismantled,1963,Dates approximate,FALSE
+259,Mežgravas,Mežgravas,Talsu novads,Latvia,57.319094,22.590306,Residential,Closed,1963,,2,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+260,Valdemārpils,Valdemārpils,Talsu novads,Latvia,57.372909,22.581494,Residential,Closed,1963,,3,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+261,Popvale,Silkrogs,Talsu novads,Latvia,57.406652,22.600955,Residential,Closed,1963,,4,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+262,Lube,Lubeskrogs,Talsu novads,Latvia,57.44666,22.645244,Residential,Closed,1963,,5,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+263,Rudiķi,Rude,Talsu novads,Latvia,57.486195,22.717422,Dismantled/Not built,Closed,1963,,6,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+264,Roja,Roja,Talsu novads,Latvia,57.505138,22.804043,Non-railway use,Closed,1963,Company offices,7,17,Valdgale—Roja,1916,600 mm,Dismantled,1963,Dates approximate,FALSE
+265,Mauri,Ventspils,Ventspils,Latvia,57.404489,21.665757,Residential,Closed,1963,,2,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+266,Ogsils,Silmalas,Ventspils novads,Latvia,57.416131,21.754181,Dismantled/Not built,Closed,1963,,3,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+267,Pope,Pope,Ventspils novads,Latvia,57.408991,21.865007,Residential,Closed,1963,,4,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+268,Rinda,Spiņņi,Ventspils novads,Latvia,57.440603,21.905005,Dismantled/Not built,Closed,1963,,5,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+269,Virpe,Virpe,Ventspils novads,Latvia,57.475052,22.018719,Residential,Closed,1963,,6,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+270,Nora,Auzdarciems,Ventspils novads,Latvia,57.483026,22.083728,Dismantled/Not built,Closed,1963,,7,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+271,Lonaste,Lonaste,Ventspils novads,Latvia,57.481325,22.133891,Residential,Closed,1963,,8,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+272,Pace,Pāce,Talsu novads,Latvia,57.504499,22.283358,Dismantled/Not built,Closed,1963,,9,18,Ventspils—Pope—Dundaga,1932,600 mm,Dismantled,1963,Dates approximate,FALSE
+273,Tukums II,Tukums,Tukuma novads,Latvia,56.959848,23.115329,Active,Operational,2024,,1,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+273,Tukums II,Tukums,Tukuma novads,Latvia,56.959848,23.115329,Active,Operational,2024,,1,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+274,Zvāre,Cerība,Tukuma novads,Latvia,57.018907,23.001604,Residential,Closed,2001,,2,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+275,Pūre,Pūres stacija,Tukuma novads,Latvia,57.062473,22.89644,Ruined/Disused,Closed,2001,,3,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+276,Kandava,Kandavas stacija,Tukuma novads,Latvia,57.083485,22.820331,Ruined/Disused,Closed,2001,Used for cargo operations,4,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+277,Līgciems ,Līgciems,Tukuma novads,Latvia,57.101967,22.743097,Dismantled/Not built,Closed,2001,,5,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+278,Sabile,Jaunpagasts,Tukuma novads,Latvia,57.131315,22.651512,Ruined/Disused,Closed,2001,Used for cargo operations,6,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+279,Līči,Līči,Talsu novads,Latvia,57.178425,22.420062,Residential,Closed,2001,,8,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+280,Spāre,Spāre,Talsu novads,Latvia,57.215497,22.265788,Ruined/Disused,Closed,2001,Used for cargo operations,9,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+281,Usma,Usmas stacija,Ventspils novads,Latvia,57.250459,22.170705,Residential,Closed,2001,,10,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+282,Ugāle,Ugāle,Ventspils novads,Latvia,57.282198,22.012552,Ruined/Disused,Closed,2010,Used for cargo operations,11,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+283,Puze,Dzirciems,Ventspils novads,Latvia,57.30845,21.933016,Dismantled/Not built,Closed,2001,,12,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+284,Elkšķene,Elkšķene,Ventspils novads,Latvia,57.354609,21.779225,Residential,Closed,2001,,13,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+285,Ventspils II,Ventspils 2. stacija,Ventspils novads,Latvia,57.384262,21.66961,Dismantled/Not built,Closed,2001,,14,102,Tukums II—Ventspils,1904,1520 mm,Freight only,2010,,TRUE
+286,Jelgava,Jelgava,Jelgava,Latvia,56.640715,23.732246,Active,Operational,2024,,1,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+286,Jelgava,Jelgava,Jelgava,Latvia,56.640715,23.732246,Active,Operational,2024,,8,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+286,Jelgava,Jelgava,Jelgava,Latvia,56.640715,23.732246,Active,Operational,2024,,1,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+286,Jelgava,Jelgava,Jelgava,Latvia,56.640715,23.732246,Active,Operational,2024,,1,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+287,50. kilometrs,Mežvidi,Jelgavas novads,Latvia,56.622638,23.632815,Dismantled/Not built,Closed,2010,,2,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+288,Viesturi,Viesturi,Jelgavas novads,Latvia,56.615325,23.585404,Dismantled/Not built,Closed,2015,,3,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+289,Dorupe,Dorupe,Jelgavas novads,Latvia,56.605828,23.531006,Dismantled/Not built,Closed,2010,,4,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+290,Glūda,Glūda,Jelgavas novads,Latvia,56.599797,23.494717,Ruined/Disused,Closed,2010,Used for cargo operations,5,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+290,Glūda,Glūda,Jelgavas novads,Latvia,56.599797,23.494717,Ruined/Disused,Closed,2010,Used for cargo operations,1,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+291,Lāči,Šķibe,Jelgavas novads,Latvia,56.602309,23.410111,Dismantled/Not built,Closed,2001,,6,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+292,Dobele,Dobele,Dobeles novads,Latvia,56.628668,23.284557,Active,Operational,2024,,7,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+293,Gardene,Gardene,Dobeles novads,Latvia,56.663611,23.187222,Dismantled/Not built,Closed,1990,,8,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+294,Bērzupe,Bērzupe,Dobeles novads,Latvia,56.689967,23.108849,Residential,Closed,2001,,9,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+295,Biksti,Bikstu stacija,Dobeles novads,Latvia,56.691326,22.980937,Active,Operational,2024,,10,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+296,Josta,Josta,Dobeles novads,Latvia,56.691427,22.854772,Dismantled/Not built,Closed,2001,,11,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+297,Blīdene,Pusblīdene,Saldus novads,Latvia,56.70108,22.689018,Ruined/Disused,Closed,2001,,12,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+298,Broceni,Broceni,Saldus novads,Latvia,56.693375,22.570233,Ruined/Disused,Closed,2008,Cargo and chartered trains only,13,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+299,Saldus,Saldus,Saldus novads,Latvia,56.685595,22.471429,Active,Operational,2024,,14,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+300,Lutriņi,Lutriņi,Saldus novads,Latvia,56.698056,22.348611,Dismantled/Not built,Closed,2001,,15,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+301,Lašupe,Līči,Saldus novads,Latvia,56.705392,22.287887,Residential,Closed,2001,,16,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+302,Airīte,Dzerve,Saldus novads,Latvia,56.705761,22.172463,Non-railway use,Closed,2001,Privately owned tourism centre,17,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+303,Skrunda,Skrunda,Kuldīgas novads,Latvia,56.680462,22.012097,Active,Operational,2024,,18,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+304,Sieksāte,Smūši,Kuldīgas novads,Latvia,56.681657,21.931336,Residential,Closed,2001,,19,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+305,Rudbārži,Rudbāržu stacija,Dienvidkurzemes novads,Latvia,56.652693,21.825764,Residential,Closed,2001,,20,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+306,Kalvene,Kalvenes stacija,Dienvidkurzemes novads,Latvia,56.621272,21.693862,Ruined/Disused,Closed,2001,Used for cargo operations,21,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+307,Ilmāja,Stacija Ilmāja,Dienvidkurzemes novads,Latvia,56.574929,21.552515,Ruined/Disused,Closed,2001,,22,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+308,Padone,Padone,Dienvidkurzemes novads,Latvia,56.564568,21.459445,Dismantled/Not built,Closed,2001,,23,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+309,Durbe,Krupmuiža,Dienvidkurzemes novads,Latvia,56.558912,21.41452,Ruined/Disused,Closed,2001,,24,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+310,Tadaiķi,Vārve,Dienvidkurzemes novads,Latvia,56.548849,21.365205,Ruined/Disused,Closed,2001,,25,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+311,Tore,Iļģi,Dienvidkurzemes novads,Latvia,56.53127,21.251522,Residential,Closed,2001,,26,101,Jelgava—Liepāja,1928,1520 mm,Operational,2024,"Most stations not served siince 2001, daily service restarted 2023",TRUE
+312,Krimūnas,Krimūnas,Dobeles novads,Latvia,56.56913,23.384012,Ruined/Disused,Closed,2010,,2,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+313,Auri,Auri,Dobeles novads,Latvia,56.547833,23.303111,Ruined/Disused,Closed,2010,,3,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+314,Apgulde,Apgulde,Dobeles novads,Latvia,56.528944,23.245444,Ruined/Disused,Closed,2010,,4,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+315,Penkule,Penkule,Dobeles novads,Latvia,56.502358,23.177544,Residential,Closed,2010,,5,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+316,Bēne,Bēne,Dobeles novads,Latvia,56.480314,23.068707,Ruined/Disused,Closed,2010,,6,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+317,Auce,Auce,Dobeles novads,Latvia,56.460353,22.896749,Residential,Closed,2010,,7,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+318,Avīkne,Galāti,Dobeles novads,Latvia,56.426389,22.795833,Dismantled/Not built,Closed,1987,,8,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+319,Vadakste,Vadakste,Saldus novads,Latvia,56.395107,22.721198,Dismantled/Not built,Closed,2010,,9,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+320,Reņģe,Reņģe,Saldus novads,Latvia,56.382673,22.641242,Ruined/Disused,Closed,2010,,10,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+321,Meitene,Eleja,Jelgavas novads,Latvia,56.408638,23.677581,Ruined/Disused,Closed,2008,Used for cargo operations,1,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+321,Meitene,Eleja,Jelgavas novads,Latvia,56.408638,23.677581,Ruined/Disused,Closed,2008,Used for cargo operations,7,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+322,Narvaiši,Bērvicava,Jelgavas novads,Latvia,56.42265,23.748694,Dismantled/Not built,Closed,1963,,2,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+323,Sesava,Sesava,Jelgavas novads,Latvia,56.427823,23.817686,Residential,Closed,1963,,3,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+324,Mālukrogs,Sesava,Bauskas novads,Latvia,56.427263,23.853122,Dismantled/Not built,Closed,1963,,4,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+325,Bērstele,Bērsteles,Bauskas novads,Latvia,56.4273906,23.912455,Dismantled/Not built,Closed,1963,,5,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+326,Jāņukrogs,Jāņukrogs,Bauskas novads,Latvia,56.430619,23.955779,Residential,Closed,1963,,6,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+327,Mežotne,Mazmežotne,Bauskas novads,Latvia,56.420848,24.051087,Residential,Closed,1963,,7,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+328,Islīce,Saulaine,Bauskas novads,Latvia,56.398634,24.125566,Dismantled/Not built,Closed,1963,,8,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+329,Bauska,Bauska,Bauskas novads,Latvia,56.394997,24.173058,Residential,Closed,1963,,9,20,Meitene—Bauska,1916,750 mm,Dismantled,1963,Until 1930 - 600 mm gauge,TRUE
+330,Laižuva,Laižuva,Telšių apskritis,Lithuania,56.373833,22.558092,Ruined/Disused,Closed,2008,,11,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+331,Praviņi,Praviņi,Tukuma novads,Latvia,56.891619,23.235335,Ruined/Disused,Closed,1998,,2,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+332,Slampe,Slampe,Tukuma novads,Latvia,56.844267,23.291184,"Preserved, uncertain",Closed,1998,,3,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+333,Džūkste,Lancenieki,Tukuma novads,Latvia,56.807688,23.334303,Residential,Closed,1998,,4,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+334,Apšupe,Eglieni,Dobeles novads,Latvia,56.779996,23.370968,Residential,Closed,1998,,5,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+335,Līvbērze,Livberzes stacija,Jelgavas novads,Latvia,56.702015,23.463731,"Preserved, uncertain",Closed,1998,,6,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+336,Brakšķi,Silvas,Jelgavas novads,Latvia,56.661332,23.538926,Residential,Closed,1998,,7,21,Tukums II—Jelgava,1904,1520 mm,Freight only,1998,,TRUE
+337,Jelgava II,Jelgava,Jelgava,Latvia,56.650833,23.756667,Ruined/Disused,Closed,2000,Cargo operations and locomotive depot,2,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+338,Tetele,Tetele,Jelgavas novads,Latvia,56.652859,23.862595,Residential,Closed,1947,,3,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+339,Garoza,Garozas stacija,Jelgavas novads,Latvia,56.650113,23.949478,"Preserved, uncertain",Closed,2000,,4,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+340,Zālīte,Zālīte,Bauskas novads,Latvia,56.641946,24.08564,Ruined/Disused,Closed,2000,Used for cargo operations,5,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+341,Iecava,Iecavas stacija,Bauskas novads,Latvia,56.628403,24.234523,"Preserved, uncertain",Closed,2000,,6,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+342,Misa,Misa,Bauskas novads,Latvia,56.592033,24.391271,Dismantled/Not built,Closed,2000,,7,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+343,210. kilometrs,Beibeži,Bauskas novads,Latvia,56.584444,24.446667,Dismantled/Not built,Closed,2000,,8,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+344,Nameiši,Šarlotes,Bauskas novads,Latvia,56.584965,24.481074,Dismantled/Not built,Closed,1947,,9,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+345,Vecumnieki,Vecmuiža,Bauskas novads,Latvia,56.590146,24.537307,"Preserved, uncertain",Closed,2000,Used for chartered service in 2017,10,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+346,Vīkstene,Vecmuiža,Bauskas novads,Latvia,56.590516,24.557174,Dismantled/Not built,Closed,1947,,11,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+347,Birze,Rutki,Bauskas novads,Latvia,56.582778,24.673761,Dismantled/Not built,Closed,2000,,12,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+348,Goba,Goba,Ogres novads,Latvia,56.581362,24.734599,Residential,Closed,2000,,13,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+349,Lāčplēsis,Lāčplēsis,Ogres novads,Latvia,56.575925,24.792937,"Preserved, uncertain",Closed,2000,,14,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+350,Taurkalne,Taurkalne,Bauskas novads,Latvia,56.561753,24.935836,Residential,Closed,2000,,15,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+351,Menta,Dzeņi,Aizkraukles novads,Latvia,56.537844,25.10225,Residential,Closed,2000,,16,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+352,256. kilometrs,Krasti,Aizkraukles novads,Latvia,56.52107,25.17697,Ruined/Disused,Closed,2000,,17,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+353,Daudzeva,Daudzeva,Aizkraukles novads,Latvia,56.508196,25.24431,Ruined/Disused,Closed,2000,Used for cargo operations,18,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+417,Auksūdys,Auksūdys,Telšių apskritis,Lithuania,56.349693,22.476257,Residential,Closed,1963,Date approximate,12,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+354,Sece,Purviņi,Aizkraukles novads,Latvia,56.510667,25.368042,Residential,Closed,2000,,19,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+418,Mažeikiai II,Mažeikiai,Telšių apskritis,Lithuania,56.310934,22.365232,Dismantled/Not built,Closed,1963,Date approximate,13,19,Glūda—Reņģe—Mažeikiai,1873,1520 mm,Freight only,2010,Until 1925 - 1435 mm gauge,TRUE
+355,Staburags,Burtnieki,Aizkraukles novads,Latvia,56.521111,25.516389,Dismantled/Not built,Closed,2000,,20,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+356,Sēlpils,Sēlpils,Jēkabpils novads,Latvia,56.526585,25.613993,Residential,Closed,2000,Uncertain,21,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+357,Daugava,Daugavas stacija,Jēkabpils novads,Latvia,56.537881,25.719588,Ruined/Disused,Closed,2000,Used for cargo operations,22,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+358,Krustpils,Jēkabpils,Jēkabpils,Latvia,56.520521,25.859556,Active,Operational,2024,,23,22,Jelgava—Krustpils,1904,1520 mm,Freight only,2000,,TRUE
+359,Madona,Madona,Madonas novads,Latvia,56.851194,26.220472,Active,Operational,2024,,1,23,Madona—Lubana,1935,1520 mm,Dismantled,2007,Cargo traffic closed 1990; at Meirāni becomes route P82,TRUE
+360,Prauliena,Lūza,Madonas novads,Latvia,56.844806,26.364528,Dismantled/Not built,Closed,1963,,2,23,Madona—Lubana,1935,1520 mm,Dismantled,2007,Cargo traffic closed 1990; at Meirāni becomes route P82,TRUE
+361,Visagals,Visagals,Madonas novads,Latvia,56.827667,26.505167,Ruined/Disused,Closed,1963,,3,23,Madona—Lubana,1935,1520 mm,Dismantled,2007,Cargo traffic closed 1990; at Meirāni becomes route P82,TRUE
+362,Meirāni,Meirāni,Madonas novads,Latvia,56.831498,26.610752,Residential,Closed,1963,,4,23,Madona—Lubana,1935,1520 mm,Dismantled,2007,Cargo traffic closed 1990; at Meirāni becomes route P82,TRUE
+363,Jaunlubāna,Jaunlubāna,Madonas novads,Latvia,56.861805,26.658464,Dismantled/Not built,Closed,1963,,5,23,Madona—Lubana,1935,1520 mm,Dismantled,2007,Cargo traffic closed 1990; at Meirāni becomes route P82,TRUE
+364,Lubāna,Lubāna,Madonas novads,Latvia,56.905183,26.707405,Ruined/Disused,Closed,1963,,6,23,Madona—Lubana,1935,1520 mm,Dismantled,2007,Cargo traffic closed 1990; at Meirāni becomes route P82,TRUE
+365,Aizezere,Kačupe,Balvu novads,Latvia,57.2491,27.38232,Dismantled/Not built,Closed,1963,,2,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+366,Sproģi,Kačupe,Balvu novads,Latvia,57.2752,27.35809,Dismantled/Not built,Closed,1963,,3,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+367,Svilte,Alodzene,Alūksnes novads,Latvia,57.289821,27.340888,Dismantled/Not built,Closed,1963,Uncertain,4,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+368,Mālupe,Sofikalns,Alūksnes novads,Latvia,57.330215,27.312357,Residential,Closed,1963,,5,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+369,Salenieki,Purmala,Alūksnes novads,Latvia,57.362624,27.315777,Dismantled/Not built,Closed,1963,Uncertain,6,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+370,Lāčudārzs,Lāčudārzs,Alūksnes novads,Latvia,57.401177,27.335594,Dismantled/Not built,Closed,1963,Uncertain,7,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+371,Beja,Lāčudārzs,Alūksnes novads,Latvia,57.423647,27.359652,Dismantled/Not built,Closed,1963,Uncertain,8,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+372,Oši,Liepaja,Alūksnes novads,Latvia,57.428104,27.384808,Dismantled/Not built,Closed,1963,Uncertain,9,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+373,Kūdupe,Kūdupe,Alūksnes novads,Latvia,57.430523,27.441698,Dismantled/Not built,Closed,1963,Uncertain,10,24,Pakalnieši—Kūdupe,1934,1520 mm,Dismantled,1944,Rebuilt to 1435 mm for 1944,TRUE
+374,Daugavpils,Daugavpils,Daugavpils,Latvia,55.874908,26.527644,Active,Operational,2024,,1,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+374,Daugavpils,Daugavpils,Daugavpils,Latvia,55.874908,26.527644,Active,Operational,2024,,1,27,Daugavpils—Kurcums—Turmantas,1862,1520 mm,Freight only,2020,Vilnius-Turmantas-Daugavpils between 2017 and 2020,FALSE
+374,Daugavpils,Daugavpils,Daugavpils,Latvia,55.874908,26.527644,Active,Operational,2024,,1,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+375,Daugavpils Šķirošanas parks,Daugavpils,Daugavpils,Latvia,55.897044,26.532903,Ruined/Disused,Closed,1999,Used for cargo operations,2,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+376,525. kilometrs,Stropi,Daugavpils,Latvia,55.92519,26.5601,Dismantled/Not built,Closed,1999,,3,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+377,524. kilometrs,Križi,Daugavpils,Latvia,55.936811,26.571194,Ruined/Disused,Closed,1999,Used for cargo operations,4,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+378,Kūdraine,Križi,Daugavpils,Latvia,55.955633,26.590055,Dismantled/Not built,Closed,1999,,5,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+379,Zaļumi,Zaļumi,Augšdaugavas novads,Latvia,55.992485,26.626542,"Preserved, uncertain",Closed,1999,,6,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+380,Medupe,Rogova,Augšdaugavas novads,Latvia,56.036335,26.676177,Residential,Closed,1999,,7,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+381,Višķi,Spoģi,Augšdaugavas novads,Latvia,56.081289,26.738209,Ruined/Disused,Closed,1999,Used for cargo operations,8,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+382,Vīganti,Vīganti,Augšdaugavas novads,Latvia,56.125521,26.805301,"Preserved, uncertain",Closed,1999,,9,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+383,Ārdava,Ārdava,Preiļu novads,Latvia,56.141246,26.83372,Dismantled/Not built,Closed,1999,,10,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+384,Aglona,Aglonas stacija,Preiļu novads,Latvia,56.178126,26.890829,"Preserved, uncertain",Closed,1999,Serviced by annual chartered train,11,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+385,Apsāni,Keiki,Preiļu novads,Latvia,56.210756,26.939639,Ruined/Disused,Closed,1999,,12,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+386,Zalvezers,Krupenišķi,Preiļu novads,Latvia,56.236395,26.979052,Dismantled/Not built,Closed,1999,,13,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+387,Krāce,Feimaņi,Rēzeknes novads,Latvia,56.272839,27.049966,"Preserved, uncertain",Closed,1999,,14,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+388,Vainava,Vainova,Rēzeknes novads,Latvia,56.303425,27.089521,Residential,Closed,1999,,15,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+389,Malta,Malta,Rēzeknes novads,Latvia,56.357569,27.152646,Ruined/Disused,Closed,1999,Used for cargo operations,16,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+390,Pūpoli,Bekši,Rēzeknes novads,Latvia,56.414663,27.219623,"Preserved, uncertain",Closed,1999,,17,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+391,Rēzekne I,Rēzekne,Rēzekne,Latvia,56.501602,27.315521,Ruined/Disused,Closed,2015,Used for cargo operations,18,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+392,Kleperova,Stučeva,Rēzeknes novads,Latvia,56.534144,27.323648,"Preserved, uncertain",Closed,1999,,19,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+393,Ilzēni,Ļetki,Rēzeknes novads,Latvia,56.63274,27.411567,"Preserved, uncertain",Closed,1999,,21,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+394,Mežvidi,Mežvidi,Ludzas novads,Latvia,56.69531,27.525935,Ruined/Disused,Closed,1999,,22,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+395,Pureņi,Mičuri,Ludzas novads,Latvia,56.751034,27.603377,"Preserved, uncertain",Closed,1999,,23,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+396,Malnava,Kārsava,Ludzas novads,Latvia,56.792841,27.66172,Residential,Closed,1999,,24,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+397,Kārsava,Kārsavas stacija,Ludzas novads,Latvia,56.815426,27.694606,"Preserved, uncertain",Closed,2015,Border station for international trains,25,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+398,Skangali,Skangali,Pskov oblast,Russia,56.88253,27.732942,"Preserved, uncertain",Closed,2021,Weekend traffic only,26,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+399,Punderi,Punduri,Pskov oblast,Russia,56.97506,27.753402,Residential,Closed,1991,Uncertain,27,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+400,Belkino,Belkino,Pskov oblast,Russia,57.02775,27.82224,"Preserved, uncertain",Closed,2021,Weekend traffic only,28,25,Daugavpils—Kārsava—Abrene,1860,1520 mm,Freight only,1999,"Until 2015, stops for trains to St. Petersburg",TRUE
+401,Dimzas,Svete,Jelgavas novads,Latvia,56.588808,23.712158,Dismantled/Not built,Closed,1995,,2,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+402,Platone,Platone,Jelgavas novads,Latvia,56.530291,23.699447,Residential,Closed,1995,,3,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+403,Vēžukrogs,Poķi,Jelgavas novads,Latvia,56.505173,23.6985,Dismantled/Not built,Closed,1995,,4,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+404,Brieži ,Apšukrogs,Jelgavas novads,Latvia,56.465472,23.691472,Residential,Closed,1995,,5,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+405,Mazeleja ,Mazeleja ,Jelgavas novads,Latvia,56.449556,23.688028,Dismantled/Not built,Closed,1995,,6,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+406,Milvydžiai,Milvydžiai,Šiaulių apskritis,Lithuania,56.35145,23.64682,Dismantled/Not built,Closed,1991,,8,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+407,Šarkiai,Pročiūnai I,Šiaulių apskritis,Lithuania,56.3199,23.621,Dismantled/Not built,Closed,1991,,9,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+408,Satkūnai,Satkūnai,Šiaulių apskritis,Lithuania,56.294135,23.615041,Dismantled/Not built,Closed,1991,,10,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+409,Žagarės kelias,Joniškis,Šiaulių apskritis,Lithuania,56.24593,23.60417,Dismantled/Not built,Closed,1991,,11,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+410,Joniškis,Joniškis,Šiaulių apskritis,Lithuania,56.231066,23.599525,Active,Operational,2024,Riga-Vilnius since 2023,12,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+411,Niūraičiai,Niūraičiai,Šiaulių apskritis,Lithuania,56.168943,23.562287,"Preserved, uncertain",Closed,2000,Date approximate,13,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+412,Mekiai,Mekiai,Šiaulių apskritis,Lithuania,56.098786,23.533785,Residential,Closed,2000,Date approximate,14,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+413,Meškuičiai,Meškuičiai,Šiaulių apskritis,Lithuania,56.054746,23.475946,"Preserved, uncertain",Closed,2000,Date approximate,15,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+414,Kėbliai,Domantai,Šiaulių apskritis,Lithuania,56.010024,23.389068,Residential,Closed,2000,Date approximate; Used for cargo operations,16,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+415,Gubernija,Šiauliai,Šiaulių apskritis,Lithuania,55.955958,23.310615,"Preserved, uncertain",Closed,2000,Date approximate,17,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+416,Šiauliai,Šiauliai,Šiaulių apskritis,Lithuania,55.923162,23.314194,Active,Operational,2024,,18,26,Jelgava—Meitene—Šiauliai,1916,1520 mm,Partially operational,2024,Served only by international express train,FALSE
+419,Grīva,Nīderkūni,Daugavpils,Latvia,55.854077,26.486399,"Preserved, uncertain",Closed,1998,,2,27,Daugavpils—Kurcums—Turmantas,1862,1520 mm,Freight only,2020,Vilnius-Turmantas-Daugavpils between 2017 and 2020,FALSE
+419,Grīva,Nīderkūni,Daugavpils,Latvia,55.854077,26.486399,"Preserved, uncertain",Closed,1998,,2,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+420,Laucesa,Lenderņa,Augšdaugavas novads,Latvia,55.823358,26.493548,Residential,Closed,1948,,3,27,Daugavpils—Kurcums—Turmantas,1862,1520 mm,Freight only,2020,Vilnius-Turmantas-Daugavpils between 2017 and 2020,FALSE
+421,Kurcums,Kurcums,Augšdaugavas novads,Latvia,55.758194,26.481008,"Preserved, uncertain",Closed,1998,,4,27,Daugavpils—Kurcums—Turmantas,1862,1520 mm,Freight only,2020,Vilnius-Turmantas-Daugavpils between 2017 and 2020,FALSE
+422,Zemgale,Zemgale,Augšdaugavas novads,Latvia,55.714232,26.47032,Non-railway use,Closed,1944,Church building since 2006,5,27,Daugavpils—Kurcums—Turmantas,1862,1520 mm,Freight only,2020,Vilnius-Turmantas-Daugavpils between 2017 and 2020,FALSE
+423,Turmantas,Turmantas,Utenos apskritis,Lithuania,55.69954,26.46508,Active,Operational,2024,,6,27,Daugavpils—Kurcums—Turmantas,1862,1520 mm,Freight only,2020,Vilnius-Turmantas-Daugavpils between 2017 and 2020,FALSE
+424,7. kilometrs,Lilienfelde,Augšdaugavas novads,Latvia,55.898125,26.427076,Residential,Closed,1998,,3,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+425,Sventa,Silupe,Augšdaugavas novads,Latvia,55.931944,26.334444,Dismantled/Not built,Closed,1998,,4,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+426,Ilūkste,Pašuliene,Augšdaugavas novads,Latvia,55.942222,26.230278,"Preserved, uncertain",Closed,1998,,5,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+427,Eglaine,Eglaine,Augšdaugavas novads,Latvia,55.949978,26.130039,"Preserved, uncertain",Closed,1998,,6,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+428,Noreikiai,Barauka,Panevėžio apskritis,Lithuania,55.9423,26.0118,Dismantled/Not built,Closed,1944,2022,7,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+429,Šapeliai,Barauka,Panevėžio apskritis,Lithuania,55.944283,25.997131,Residential,Closed,1992,,8,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+430,Obeliai,Obeliai,Panevėžio apskritis,Lithuania,55.9533,25.804972,Ruined/Disused,Closed,2001,,9,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+431,Grindviliai,Grindviliai,Panevėžio apskritis,Lithuania,55.957574,25.69057,Residential,Closed,1980,Date approximate,10,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+432,Rokiškis,Rokiškis,Panevėžio apskritis,Lithuania,55.939554,25.597386,Residential,Closed,2022,,11,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+433,Tindžiuliai,Panemunėlis,Panevėžio apskritis,Lithuania,55.9157,25.4591,Ruined/Disused,Closed,2022,,12,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+434,Panemunėlis,Panemunėlis,Panevėžio apskritis,Lithuania,55.907537,25.387431,Ruined/Disused,Closed,2022,,13,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+435,Kepuriškis,Miškonys,Panevėžio apskritis,Lithuania,55.883237,25.319151,Dismantled/Not built,Closed,2022,,14,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+436,Skapiškis,Skapiškis,Panevėžio apskritis,Lithuania,55.861602,25.195981,Ruined/Disused,Closed,2022,,15,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+437,Kupiškis,Kupiškis,Panevėžio apskritis,Lithuania,55.826396,24.991944,Ruined/Disused,Closed,2022,,16,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+438,Radžiūniai,Karklynė,Panevėžio apskritis,Lithuania,55.7695,24.8864,Dismantled/Not built,Closed,1992,,17,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+439,Subačius,Subačius,Panevėžio apskritis,Lithuania,55.766599,24.740133,Ruined/Disused,Closed,2022,,18,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+440,Bygailiai,Patrakiai,Panevėžio apskritis,Lithuania,55.770701,24.650468,Ruined/Disused,Closed,2022,,19,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+441,Karsakiškis,Karsakiškis,Panevėžio apskritis,Lithuania,55.770839,24.534472,Ruined/Disused,Closed,2022,,20,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+442,Kaubariškis,Kaubariškis,Panevėžio apskritis,Lithuania,55.764897,24.485659,Ruined/Disused,Closed,2022,,21,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+443,Samanynė,Samanynė,Panevėžio apskritis,Lithuania,55.754589,24.444351,Dismantled/Not built,Closed,1944,Date approximate,22,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+444,Panevežys,Panevežys,Panevėžio apskritis,Lithuania,55.745225,24.354594,Active,Operational,2024,,23,28,Daugavpils—Eglaine—Panevėžys,1873,1520 mm,Freight only,2022,,FALSE
+444,Panevežys,Panevežys,Panevėžio apskritis,Lithuania,55.745225,24.354594,Active,Operational,2024,,2,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+445,Ratsimäe,Ants,Valga maakond,Estonia,57.785444,26.175362,Dismantled/Not built,Closed,2001,,3,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+446,Mürgi,Mürgi,Valga maakond,Estonia,57.789253,26.238461,Dismantled/Not built,Closed,2001,,4,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+447,Karula,Väheru,Valga maakond,Estonia,57.799942,26.311493,Residential,Closed,2001,,5,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+448,Tuulemäe,Musta,Valga maakond,Estonia,57.806981,26.389036,Dismantled/Not built,Closed,2001,,6,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+449,Anne,Anne,Võru maakond,Estonia,57.811222,26.463139,Dismantled/Not built,Closed,2001,,7,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+450,Antsla,Antsla,Võru maakond,Estonia,57.828045,26.533298,"Preserved, uncertain",Closed,2001,,8,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+451,Vaabina,Vaabina,Võru maakond,Estonia,57.84308,26.633006,Residential,Closed,2001,,9,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+452,Kurenurme,Kurenurme,Võru maakond,Estonia,57.838967,26.696383,Residential,Closed,2001,,10,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+453,Sõmerpalu,Mustassaare,Võru maakond,Estonia,57.836874,26.801475,Residential,Closed,2001,,11,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+454,Vagula,Juba,Võru maakond,Estonia,57.835139,26.921472,Dismantled/Not built,Closed,2001,,12,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+455,Võru,Võru,Võru maakond,Estonia,57.827461,27.023305,Ruined/Disused,Closed,2001,,13,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+456,Nõnova,Nõnova,Võru maakond,Estonia,57.833787,27.126001,Residential,Closed,2001,,14,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+457,Husari,Husari,Võru maakond,Estonia,57.840818,27.167549,Ruined/Disused,Closed,2001,,15,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+458,Otsa,Otsa,Võru maakond,Estonia,57.84485,27.248459,Dismantled/Not built,Closed,2001,,16,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+459,Lepassaare,Lepassaare,Võru maakond,Estonia,57.844038,27.317144,"Preserved, uncertain",Closed,2001,,17,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+460,Tuderna,Tuderna,Võru maakond,Estonia,57.847153,27.409386,Ruined/Disused,Closed,2001,,18,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+461,Piusa,Piusa,Võru maakond,Estonia,57.840121,27.468009,"Preserved, uncertain",Closed,2001,,19,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+462,Koidula,Koidula,Võru maakond,Estonia,57.837147,27.575373,Active,Operational,2024,,20,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+463,Pechory-Pskovskie,Pechory,Pskov oblast,Russia,57.837519,27.632715,Active,Operational,2024,,21,29,Valga–Koidula,1889,1520 mm,Partially operational,2001,,FALSE
+464,Avoti,Jūrmala,Jūrmala,Latvia,56.97481,23.8269,Dismantled/Not built,Closed,1964,,0,103,Rīga—Tukums II,1904,1520 mm,Operational,2024,,FALSE
+465,56. kilometrs,Dzeņi,Tukuma novads,Latvia,56.969551,23.265749,Dismantled/Not built,Closed,1998,,0,103,Rīga—Tukums II,1904,1520 mm,Operational,2024,,FALSE
+466,Baltezers,Baltezers,Ropažu novads,Latvia,57.019762,24.328246,Ruined/Disused,Closed,2019,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+467,Silciems,Silciems,Siguldas novads,Latvia,57.125044,24.786818,Ruined/Disused,Closed,2019,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+468,Seda,Seda,Valmieras novads,Latvia,57.644041,25.749807,Ruined/Disused,Closed,2019,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+469,Bāle,Bāle,Valmieras novads,Latvia,57.457946,25.440784,Ruined/Disused,Closed,2019,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+470,Brenguļi,Brenguļi,Valmieras novads,Latvia,57.558577,25.557726,Ruined/Disused,Closed,2019,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+471,Saule,Saule,Valkas novads,Latvia,57.693601,25.893374,Ruined/Disused,Closed,2019,,0,100,Rīga—Valga,1889,1520 mm,Operational,2024,,FALSE
+472,Dendrārijs,Skrīveri,Aizkraukles novads,Latvia,56.658629,25.042062,Ruined/Disused,Closed,2019,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+473,Aiviekste,Grabaži,Jēkabpils novads,Latvia,56.603128,25.785662,Dismantled/Not built,Closed,1944,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+474,Ozolsala,Ozolsala,Jēkabpils novads,Latvia,56.583119,25.789528,Ruined/Disused,Closed,2019,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+475,Ruži,Ruži,Augšdaugavas novads,Latvia,56.085556,26.417222,Dismantled/Not built,Closed,1990,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+476,381. kilometrs,Ļūbaste,Augšdaugavas novads,Latvia,55.946652,26.472242,Residential,Closed,1990,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+477,Mežciems,Liepziedi,Daugavpils,Latvia,55.915744,26.484706,"Preserved, uncertain",Closed,2011,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+478,Nometne,Liepziedi,Daugavpils,Latvia,55.908842,26.488559,Residential,Closed,1944,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+479,Cietoksnis,Daugavpils,Daugavpils,Latvia,55.894601,26.501193,Dismantled/Not built,Closed,1944,,0,104,Rīga—Krustpils—Daugavpils,1861,1520 mm,Operational,2024,,FALSE
+480,Zīlāni,Zīlāni,Jēkabpils,Latvia,56.51573,25.911755,Residential,Closed,1980,Date approximate,0,105,Krustpils—Rēzekne II—Zilupe,1901,1521 mm,Operational,2024,,FALSE
+481,Kazradži,Uļjanova,Rēzeknes novads,Latvia,56.555556,27.078611,Residential,Closed,1948,,0,105,Krustpils—Rēzekne II—Zilupe,1901,1521 mm,Operational,2024,,FALSE
+482,Skrinda,Laļi,Rēzeknes novads,Latvia,56.530375,27.237272,Dismantled/Not built,Closed,1948,,0,105,Krustpils—Rēzekne II—Zilupe,1901,1521 mm,Operational,2024,,FALSE
+483,Zvirgzdene,Tutāni,Ludzas novads,Latvia,56.53392,27.62791,Dismantled/Not built,Closed,1948,,0,105,Krustpils—Rēzekne II—Zilupe,1901,1521 mm,Operational,2024,,FALSE
+484,Isnauda,Mežavepri,Ludzas novads,Latvia,56.501447,27.795203,Dismantled/Not built,Closed,1948,,0,105,Krustpils—Rēzekne II—Zilupe,1901,1521 mm,Operational,2024,,FALSE
+485,Gertāni,Fedorenki,Ludzas novads,Latvia,56.448321,27.903804,Dismantled/Not built,Closed,1998,"Closed in 1948, restored 1990",0,105,Krustpils—Rēzekne II—Zilupe,1901,1521 mm,Operational,2024,,FALSE
+486,Spīgana,Ķūģi,Aizkraukles novads,Latvia,56.661623,25.825621,Ruined/Disused,Closed,2015,,0,106,Pļaviņas—Gulbene,1903,1522 mm,Operational,2024,,FALSE
+487,Patkule,Biksēre,Madonas novads,Latvia,56.917194,26.325611,Dismantled/Not built,Closed,1950,,0,106,Pļaviņas—Gulbene,1903,1522 mm,Operational,2024,,FALSE
+488,Dzelzava,Aizpurve,Madonas novads,Latvia,56.989436,26.428043,Ruined/Disused,Closed,2013,,0,106,Pļaviņas—Gulbene,1903,1522 mm,Operational,2024,,FALSE
+489,Degas,Mucenieki,Madonas novads,Latvia,57.029071,26.52075,Dismantled/Not built,Closed,2001,,0,106,Pļaviņas—Gulbene,1903,1522 mm,Operational,2024,,FALSE
+490,Jaungulbene,Jaungulbene,Gulbenes novads,Latvia,57.071018,26.606639,Ruined/Disused,Closed,2013,,0,106,Pļaviņas—Gulbene,1903,1522 mm,Operational,2024,,FALSE
+491,Elste,Elste,Gulbenes novads,Latvia,57.102918,26.697736,Dismantled/Not built,Closed,2013,,0,106,Pļaviņas—Gulbene,1903,1522 mm,Operational,2024,,FALSE
+492,Viesīte,Viesīte,Jēkabpils novads,Latvia,56.342508,25.555265,Non-railway use,Closed,1972,Regional museum,1,30,Viesīte—Daudzeva,1916,600 mm,Dismantled,1972,,FALSE
+493,Vārnava,Vārnava,Jēkabpils novads,Latvia,56.416963,25.550756,Residential,Closed,1972,,2,30,Viesīte—Daudzeva,1916,600 mm,Dismantled,1972,,FALSE
+494,Sunākste,Sunākste,Aizkraukles novads,Latvia,56.461211,25.488026,Residential,Closed,1972,,3,30,Viesīte—Daudzeva,1916,600 mm,Dismantled,1972,,FALSE
+495,Sviļi,Sviļi,Aizkraukles novads,Latvia,56.474088,25.426447,Residential,Closed,1972,,4,30,Viesīte—Daudzeva,1916,600 mm,Dismantled,1972,,FALSE
+496,Andžani,Andzēni,Aizkraukles novads,Latvia,56.4898,25.346348,Dismantled/Not built,Closed,1972,,5,30,Viesīte—Daudzeva,1916,600 mm,Dismantled,1972,,FALSE
+353,Daudzeva,Daudzeva,Aizkraukles novads,Latvia,56.508196,25.24431,Ruined/Disused,Closed,2000,Used for cargo operations,6,30,Viesīte—Daudzeva,1916,600 mm,Dismantled,1972,,FALSE
+497,Jēkabpils,Jēkabpils,Jēkabpils,Latvia,56.486119,25.881205,Non-railway use,Closed,1961,Residential and store,1,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+498,Aldaune,Lukstenieki,Jēkabpils novads,Latvia,56.422185,25.882464,Dismantled/Not built,Closed,1961,,2,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+499,Ermite,Radiņi,Jēkabpils novads,Latvia,56.399553,25.815244,Residential,Closed,1961,,3,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+500,Siliņi,Siliņu stacija,Jēkabpils novads,Latvia,56.386105,25.778966,Residential,Closed,1972,,4,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+501,Salas,Salas,Jēkabpils novads,Latvia,56.399611,25.720508,Dismantled/Not built,Closed,1972,,5,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+502,Zaķi,Zaķi,Jēkabpils novads,Latvia,56.384987,25.675564,Dismantled/Not built,Closed,1972,,6,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+503,Jodeļi,Jodeļi,Jēkabpils novads,Latvia,56.360305,25.622327,Residential,Closed,1972,,7,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+492,Viesīte,Viesīte,Jēkabpils novads,Latvia,56.342508,25.555265,Non-railway use,Closed,1972,Regional museum,8,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+504,Ževaldi,Jaunkančuki,Jēkabpils novads,Latvia,56.328239,25.502771,Dismantled/Not built,Closed,1964,,9,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+505,Sauka,Lone,Jēkabpils novads,Latvia,56.293842,25.414075,Residential,Closed,1964,Different location before post-war track reconstruction (~3 km NE),10,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+506,Lone,Lone,Jēkabpils novads,Latvia,56.283076,25.401866,Non-railway use,Closed,1964,Events house,11,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+507,Rempi,Rempji,Jēkabpils novads,Latvia,56.264084,25.350572,Dismantled/Not built,Closed,1961,,12,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+508,Nereta,Nereta,Aizkraukles novads,Latvia,56.205238,25.301891,Residential,Closed,1961,,13,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+509,Suvainiškis,Taručiai,Panevėžio apskritis,Lithuania,56.143507,25.280858,Residential,Closed,1961,,14,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+500,Siliņi,Siliņu stacija,Jēkabpils novads,Latvia,56.386105,25.778966,Residential,Closed,1972,,1,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+510,Lāčkalne,Lāči,Jēkabpils novads,Latvia,56.358898,25.793764,Residential,Closed,1952,,2,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+511,Vidsala,Vidsala,Jēkabpils novads,Latvia,56.342628,25.845299,Dismantled/Not built,Closed,1964,,3,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+512,Bērzgale,Skrīveri,Jēkabpils novads,Latvia,56.297179,25.920039,Dismantled/Not built,Closed,1964,,4,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+513,Zasa,Virši,Jēkabpils novads,Latvia,56.281126,25.990677,Residential,Closed,1964,,5,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+514,Dignāja,Bērzone,Jēkabpils novads,Latvia,56.245128,26.027427,Dismantled/Not built,Closed,1964,,6,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+515,Geidāni,Slate,Jēkabpils novads,Latvia,56.205213,25.997374,Residential,Closed,1964,,7,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+516,Slāte,Skromi,Jēkabpils novads,Latvia,56.179549,25.946704,Dismantled/Not built,Closed,1962,,8,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+517,Susēja,Dominieki,Jēkabpils novads,Latvia,56.160072,25.875146,Dismantled/Not built,Closed,1962,,9,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+518,Radze,Susēja,Jēkabpils novads,Latvia,56.150391,25.808608,Dismantled/Not built,Closed,1962,,10,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+519,Aknīste,Aknīste,Jēkabpils novads,Latvia,56.15553,25.760549,Dismantled/Not built,Closed,1962,,11,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
+500,Siliņi,Siliņu stacija,Jēkabpils novads,Latvia,56.386105,25.778966,Residential,Closed,1972,,1,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+510,Lāčkalne,Lāči,Jēkabpils novads,Latvia,56.358898,25.793764,Residential,Closed,1952,,2,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+511,Vidsala,Vidsala,Jēkabpils novads,Latvia,56.342628,25.845299,Dismantled/Not built,Closed,1964,,3,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+512,Bērzgale,Skrīveri,Jēkabpils novads,Latvia,56.297179,25.920039,Dismantled/Not built,Closed,1964,,4,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+513,Zasa,Virši,Jēkabpils novads,Latvia,56.281126,25.990677,Residential,Closed,1964,,5,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+514,Dignāja,Bērzone,Jēkabpils novads,Latvia,56.245128,26.027427,Dismantled/Not built,Closed,1964,,6,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+515,Geidāni,Slate,Jēkabpils novads,Latvia,56.205213,25.997374,Residential,Closed,1964,,7,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+520,Kaldabruņa,Kaldabruņa,Jēkabpils novads,Latvia,56.105248,26.056409,Residential,Closed,1923,Uncertain,8,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+521,Pudani,Pūdānu sala,Augšdaugavas novads,Latvia,56.086156,26.094277,Dismantled/Not built,Closed,1923,Uncertain,9,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+522,Bebrene,Bebrene,Augšdaugavas novads,Latvia,56.067774,26.125461,Dismantled/Not built,Closed,1923,Uncertain,10,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+523,Uljani,Birztalas,Augšdaugavas novads,Latvia,56.03297,26.129868,Dismantled/Not built,Closed,1923,Uncertain,11,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+524,Kaupiški,Kaupiški,Augšdaugavas novads,Latvia,56.00631,26.0992,Dismantled/Not built,Closed,1923,Uncertain,12,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+525,Laši,Baltmuiža,Augšdaugavas novads,Latvia,55.95652,26.08921,Dismantled/Not built,Closed,1923,Uncertain,13,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
+427,Eglaine,Eglaine,Augšdaugavas novads,Latvia,55.949978,26.130039,"Preserved, uncertain",Closed,1998,,14,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
