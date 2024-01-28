@@ -23,17 +23,75 @@ var openrailwaymap = new L.TileLayer('http://{s}.tiles.openrailwaymap.org/standa
 	tileSize: 256
 });
 
+//base layer ESRI
+var esri = L.tileLayer('http://services.arcgisonline.com/ArcGis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}.png', {
+    maxZoom: 19,
+    attribution: '<a href="https://www.esri.com/">ESRI,</a>FAO,NOAA,USGS'
+});
+
 //overlay layer - stations from geoJSON
 
-var geosta = L.geoJSON(stations, {
+var act = L.geoJSON(stations, {
+    filter: function (feature) {
+        return (feature.properties['Building Condition'] == 'Active');
+    },
+    style: function (feature) {
+            return {fillColor: "#FC8D62"};
+        },
+    pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: function (feature, layer) {
+            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
+            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
+            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
+            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+            if (feature.properties['Station Notes'] !== ""){
+                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
+            }
+            if (feature.properties['Notes'] !== "" ){
+                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+            }
+            layer.bindPopup (popupContent);
+        },
+});
+
+var nrr = L.geoJSON(stations, {
+    filter: function (feature) {
+        return ((feature.properties['Building Condition'] == 'Non-railway use') || (feature.properties['Building Condition'] == 'Residential'));
+    },
     style: function (feature) {
         switch (feature.properties['Building Condition'])
         {
-            case 'Active': return {fillColor: "#FC8D62"};
-            case 'Dismantled/Not built': return {fillColor: "#66C2A5"};
             case 'Non-railway use': return {fillColor: "#FFD92F"};
-            case 'Preserved, uncertain': return {fillColor: "#8DA0CB"};
             case 'Residential': return {fillColor: "#A6D854"};
+        }},
+    pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: function (feature, layer) {
+            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
+            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
+            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
+            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+            if (feature.properties['Station Notes'] !== ""){
+                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
+            }
+            if (feature.properties['Notes'] !== "" ){
+                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+            }
+            layer.bindPopup (popupContent);
+        },
+});
+
+var unc = L.geoJSON(stations, {
+    filter: function (feature) {
+        return ((feature.properties['Building Condition'] == 'Preserved, uncertain') || (feature.properties['Building Condition'] == 'Ruined/Disused'));
+    },
+    style: function (feature) {
+        switch (feature.properties['Building Condition'])
+        {
+            case 'Preserved, uncertain': return {fillColor: "#8DA0CB"};
             case 'Ruined/Disused': return {fillColor: "#E78AC3"};
         }},
     pointToLayer: function (feature, latlng) {
@@ -52,7 +110,31 @@ var geosta = L.geoJSON(stations, {
             }
             layer.bindPopup (popupContent);
         },
-    attribution: 'Station data collated by<a href="http://www.vebcoyote.com/contact">Veb</a>'
+});
+
+var gon = L.geoJSON(stations, {
+    filter: function (feature) {
+        return (feature.properties['Building Condition'] == 'Dismantled/Not built');
+    },
+    style: function (feature) {
+           return {fillColor: "#66C2A5"};
+        },
+    pointToLayer: function (feature, latlng) {
+            return L.circleMarker(latlng, geojsonMarkerOptions);
+        },
+    onEachFeature: function (feature, layer) {
+            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
+            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
+            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
+            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+            if (feature.properties['Station Notes'] !== ""){
+                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
+            }
+            if (feature.properties['Notes'] !== "" ){
+                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+            }
+            layer.bindPopup (popupContent);
+        },
 });
 
 //actually making the map + combining layers for the controls
@@ -60,15 +142,19 @@ var map =
     L.map('map', {
         center: [56.999, 24.675],
         zoom: 7,
-        layers: [osm, geosta]
+        layers: [osm, act, nrr]
     });
 
 const baseLayers = {
-    'OpenStreetMap': osm
+    'OpenStreetMap': osm,
+    'ESRI World Imagery (aerial)': esri
 };
 
 const overlays = {
-    'Stations': geosta,
+    'Active stations': act,
+    'Freight, unknown use, and ruins': unc,
+    'Various non-railway uses': nrr,
+    'Fully destroyed or never built': gon,
     'OpenRailwayMap': openrailwaymap
 };
 
@@ -88,6 +174,8 @@ legend.onAdd = function(map) {
   return div;
 };
 legend.addTo(map);
+
+L.control.scale({position: 'bottomright'}).addTo(map);
 
 
 /*function pop_stations(feature, layer) {
