@@ -1,4 +1,4 @@
-﻿Station ID,Station Name,Town,Region,Country,Building Condition,Service Status,Service Status Year,Lat, Lon,Station Notes,Stop Sequence,Line ID,Line Name,Year Opened,Gauge,Line Status,Line Status Year,Line Notes,Is in NP-M
+﻿Station ID,Station Name,Town,Region,Country,Building Condition,Service Status,Service Status Year,Lat,Lon,Station Notes,Stop Sequence,Line ID,Line Name,Year Opened,Gauge,Line Status,Line Status Year,Line Notes,Is in NP-M
 1,Pärnu,Pärnu,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.372409,24.55566,New station (opened 2018),1,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
 2,Pärnu,Pärnu,Pärnu maakond,Estonia,Ruined/Disused,Closed,2014,58.359444,24.572778,Old station (opened 1976),2,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
 3,Vaskrääma,Pärnu,Pärnu maakond,Estonia,Residential,Closed,1996,58.295389,24.670813,,3,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
@@ -46,13 +46,13 @@
 17,Ainaži,Ainaži,Limbažu novads,Latvia,Non-railway use,Closed,1977,57.869711,24.359375,Museum,1,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 44,Salace,Skalbes,Limbažu novads,Latvia,Ruined/Disused,Closed,1977,57.851532,24.469019,,2,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 45,Lagaste,Zariņi,Limbažu novads,Latvia,Dismantled/Not built,Closed,1977,57.84115,24.51192,,3,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
+46,Zonepe,Zonapi,Limbažu novads,Latvia,Residential,Closed,1977,57.783381,24.590523,,4,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 18,Valga,Valga,Valga maakond,Estonia,Active,Operational,2024,57.774717,26.053239,,0,100,Rīga—Valga,1889,1520 mm,Operational,2019,,FALSE
 26,Pendiga,Vilpulka,Valmieras novads,Latvia,Dismantled/Not built,Closed,1996,57.953832,25.270191,Converted to 1524 mm in 1977,21,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
 27,Ķirbiļi,Ķirbēni,Valmieras novads,Latvia,Dismantled/Not built,Closed,1996,58.00441,25.23903,Converted to 1524 mm in 1977,22,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
 28,Ipiķi,Ipiķi,Valmieras novads,Latvia,Ruined/Disused,Closed,1996,58.069433,25.198744,Converted to 1524 mm in 1977,23,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
 9,Mõisaküla,Mõisaküla,Pärnu maakond,Estonia,Non-railway use,Closed,1996,58.092799,25.187871,Museum,1,34,Laatre—Viljandi,1897,750 mm,Dismantled,1973,,FALSE
 18,Valga,Valga,Valga maakond,Estonia,Active,Operational,2024,57.774717,26.053239,,1,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
-46,Zonepe,Zonapi,Limbažu novads,Latvia,Residential,Closed,1977,57.783381,24.590523,,4,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 47,Mežkadaga,Mežkadaga,Limbažu novads,Latvia,Ruined/Disused,Closed,1977,57.756922,24.618116,,5,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 48,Pāle,Pāle,Limbažu novads,Latvia,Residential,Closed,1979,57.70772,24.68796,Uncertain,6,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 48,Pāle,Pāle,Limbažu novads,Latvia,Residential,Closed,1979,57.70772,24.68796,Uncertain,3,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
@@ -509,7 +509,7 @@
 460,Tuderna,Tuderna,Võru maakond,Estonia,Ruined/Disused,Closed,2001,57.847153,27.409386,,18,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
 461,Piusa,Piusa,Võru maakond,Estonia,"Preserved, uncertain",Closed,2001,57.840121,27.468009,,19,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
 462,Koidula,Koidula,Võru maakond,Estonia,Active,Operational,2024,57.837147,27.575373,,20,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
-463,Pechory-Pskovskie,Pechory,Pskov oblast,Russia,Active,Operational,2024,57.837519,27.632715,,21,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
+463,Pechory-Pskovskie,Pechory,Pskov oblast,Russia,Active,Operational,2024,57.837519,27.632715,,22,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
 464,Avoti,Jūrmala,Jūrmala,Latvia,Dismantled/Not built,Closed,1964,56.97481,23.8269,,0,103,Rīga—Tukums II,1904,1520 mm,Operational,2015,,FALSE
 465,56. kilometrs,Dzeņi,Tukuma novads,Latvia,Dismantled/Not built,Closed,1998,56.969551,23.265749,,0,103,Rīga—Tukums II,1904,1520 mm,Operational,2015,,FALSE
 466,Baltezers,Baltezers,Ropažu novads,Latvia,Ruined/Disused,Closed,2019,57.019762,24.328246,,0,100,Rīga—Valga,1889,1520 mm,Operational,2019,,FALSE
@@ -558,6 +558,7 @@
 506,Lone,Lone,Jēkabpils novads,Latvia,Non-railway use,Closed,1964,56.283076,25.401866,Events house,11,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
 507,Rempi,Rempji,Jēkabpils novads,Latvia,Dismantled/Not built,Closed,1961,56.264084,25.350572,,12,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
 508,Nereta,Nereta,Aizkraukles novads,Latvia,Residential,Closed,1961,56.205238,25.301891,,13,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
+599,Veski,Võmmorski,Võru maakond,Estonia,Dismantled/Not built,Closed,2001,57.834778,27.527833,,21,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
 509,Suvainiškis,Taručiai,Panevėžio apskritis,Lithuania,Residential,Closed,1961,56.143507,25.280858,,14,31,Jekabpils—Viesīte—Suvainiškis,1915,600 mm,Dismantled,1972,Cross-border track dismantled in 1952,FALSE
 510,Lāčkalne,Lāči,Jēkabpils novads,Latvia,Residential,Closed,1952,56.358898,25.793764,,2,32,Siliņi—Aknīste,1915,600 mm,Dismantled,1972,,FALSE
 510,Lāčkalne,Lāči,Jēkabpils novads,Latvia,Residential,Closed,1952,56.358898,25.793764,,2,33,Siliņi—Eglaine,1915,600 mm,Dismantled,1923,,FALSE
@@ -658,3 +659,7 @@
 596,Sõrve,Sõrve,Harju maakond,Estonia,Residential,Closed,1959,59.419694,24.468639,,8,39,Liiva—Vääna,1913,750 mm,Dismantled,1971,,FALSE
 597,Vatsla,Sõrve,Harju maakond,Estonia,Dismantled/Not built,Closed,1959,59.40876,24.4715,Approximate location,9,39,Liiva—Vääna,1913,750 mm,Dismantled,1971,,FALSE
 598,Vääna,Vääna,Harju maakond,Estonia,Residential,Closed,1959,59.397018,24.414266,,10,39,Liiva—Vääna,1913,750 mm,Dismantled,1971,,FALSE
+600,Ülenurme,Ülenurme,Tartu maakond,Estonia,Residential,Operational,2024,58.323508,26.717806,Station moved ~1.5 km South,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+601,Laane,Logina,Põlva maakond,Estonia,Ruined/Disused,Closed,2001,58.202977,26.877288,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+602,Kliima,Kliima,Võru maakond,Estonia,Dismantled/Not built,Closed,1990,57.867625,27.517654,On the dismantled section of the line,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+603,Piiroja,Kolodavitsa,Võru maakond,Estonia,Dismantled/Not built,Closed,1990,57.842713,27.557978,On the dismantled section of the line,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE

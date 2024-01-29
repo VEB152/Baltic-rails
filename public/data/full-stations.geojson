@@ -1274,6 +1274,33 @@ var stations = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 24.590523,57.783381 ]
+    },
+    "properties": {
+    "Station ID":46,
+    "Station Name":"Zonepe",
+    "Town":"Zonapi",
+    "Region":"Limbažu novads",
+    "Country":"Latvia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1977,
+    "Station Notes":"",
+    "Stop Sequence":4,
+    "Line ID":5,
+    "Line Name":"Ainaži—Valmiera—Smiltene",
+    "Year Opened":1902,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2000,
+    "Line Notes":"Closed in parts between 1970 and 1979",
+    "Is in NP-M":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 26.053239,57.774717 ]
     },
     "properties": {
@@ -1430,33 +1457,6 @@ var stations = {
     "Line Status Year":2023,
     "Line Notes":"Full line service retracted 2001",
     "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.590523,57.783381 ]
-    },
-    "properties": {
-    "Station ID":46,
-    "Station Name":"Zonepe",
-    "Town":"Zonapi",
-    "Region":"Limbažu novads",
-    "Country":"Latvia",
-    "Building Condition":"Residential",
-    "Service Status":"Closed",
-    "Service Status Year":1977,
-    "Station Notes":"",
-    "Stop Sequence":4,
-    "Line ID":5,
-    "Line Name":"Ainaži—Valmiera—Smiltene",
-    "Year Opened":1902,
-    "Gauge":"750 mm",
-    "Line Status":"Dismantled",
-    "Line Status Year":2000,
-    "Line Notes":"Closed in parts between 1970 and 1979",
-    "Is in NP-M":"TRUE"
     }
   },
   {
@@ -13787,7 +13787,7 @@ var stations = {
     "Service Status":"Operational",
     "Service Status Year":2024,
     "Station Notes":"",
-    "Stop Sequence":21,
+    "Stop Sequence":22,
     "Line ID":29,
     "Line Name":"Valga–Koidula",
     "Year Opened":1889,
@@ -15091,6 +15091,33 @@ var stations = {
     "Line Status":"Dismantled",
     "Line Status Year":1972,
     "Line Notes":"Cross-border track dismantled in 1952",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.527833,57.834778 ]
+    },
+    "properties": {
+    "Station ID":599,
+    "Station Name":"Veski",
+    "Town":"Võmmorski",
+    "Region":"Võru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":21,
+    "Line ID":29,
+    "Line Name":"Valga–Koidula",
+    "Year Opened":1889,
+    "Gauge":"1520 mm",
+    "Line Status":"Freight only",
+    "Line Status Year":2023,
+    "Line Notes":"Full line service retracted 2001",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17791,6 +17818,114 @@ var stations = {
     "Line Status":"Dismantled",
     "Line Status Year":1971,
     "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.717806,58.323508 ]
+    },
+    "properties": {
+    "Station ID":600,
+    "Station Name":"Ülenurme",
+    "Town":"Ülenurme",
+    "Region":"Tartu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"Station moved ~1.5 km South",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.877288,58.202977 ]
+    },
+    "properties": {
+    "Station ID":601,
+    "Station Name":"Laane",
+    "Town":"Logina",
+    "Region":"Põlva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.517654,57.867625 ]
+    },
+    "properties": {
+    "Station ID":602,
+    "Station Name":"Kliima",
+    "Town":"Kliima",
+    "Region":"Võru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1990,
+    "Station Notes":"On the dismantled section of the line",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.557978,57.842713 ]
+    },
+    "properties": {
+    "Station ID":603,
+    "Station Name":"Piiroja",
+    "Town":"Kolodavitsa",
+    "Region":"Võru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1990,
+    "Station Notes":"On the dismantled section of the line",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
     "Is in NP-M":"FALSE"
     }
   }

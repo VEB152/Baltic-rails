@@ -120,24 +120,24 @@ var gon = L.geoJSON(stations, {
         return (feature.properties['Building Condition'] == 'Dismantled/Not built');
     },
     style: function (feature) {
-           return {fillColor: "#66C2A5"};
-        },
+        return {fillColor: "#66C2A5"};
+    },
     pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, geojsonMarkerOptions);
-        },
+        return L.circleMarker(latlng, geojsonMarkerOptions);
+    },
     onEachFeature: function (feature, layer) {
-            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
-            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
-            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
-            if (feature.properties['Station Notes'] !== ""){
-                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
-            }
-            if (feature.properties['Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
-            }
-            layer.bindPopup (popupContent);
-        },
+        var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
+        'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
+        '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
+        '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+        if (feature.properties['Station Notes'] !== ""){
+            popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
+        }
+        if (feature.properties['Notes'] !== "" ){
+            popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+        }
+        layer.bindPopup (popupContent);
+    },
 });
 
 //actually making the map + combining layers for the controls; OSM + markers for existing stations enabled by default
@@ -145,7 +145,8 @@ var map =
     L.map('map', {
         center: [56.999, 24.675],
         zoom: 7,
-        layers: [osm, act, nrr]
+        layers: [osm, act, nrr],
+        maxBounds: L.latLngBounds ([60, 19.5] , [53.5, 30.5]),
     });
 
 const baseLayers = {
