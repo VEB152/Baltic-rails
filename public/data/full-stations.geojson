@@ -1,4 +1,4 @@
-var stations = {
+var station = {
    "type": "FeatureCollection",
    "features": [
   {
@@ -16259,33 +16259,6 @@ var stations = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 24.832512,58.993446 ]
-    },
-    "properties": {
-    "Station ID":558,
-    "Station Name":"Rapla",
-    "Town":"Rapla",
-    "Region":"Rapla maakond",
-    "Country":"Estonia",
-    "Building Condition":"Active",
-    "Service Status":"Operational",
-    "Service Status Year":2024,
-    "Station Notes":"",
-    "Stop Sequence":0,
-    "Line ID":108,
-    "Line Name":"Tallinn—Viljandi",
-    "Year Opened":1901,
-    "Gauge":"1520 mm",
-    "Line Status":"Operational",
-    "Line Status Year":1973,
-    "Line Notes":"Until 1973 - 750 mm gauge",
-    "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 25.008048,58.866891 ]
     },
     "properties": {
@@ -16549,6 +16522,33 @@ var stations = {
     "Line Status":"Freight only",
     "Line Status Year":2021,
     "Line Notes":"Until 1971 - 750 mm; Closed for Rail Baltica construction",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.832512,58.993446 ]
+    },
+    "properties": {
+    "Station ID":558,
+    "Station Name":"Rapla",
+    "Town":"Rapla",
+    "Region":"Rapla maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":108,
+    "Line Name":"Tallinn—Viljandi",
+    "Year Opened":1901,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":1973,
+    "Line Notes":"Until 1973 - 750 mm gauge",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17918,6 +17918,276 @@ var stations = {
     "Service Status":"Closed",
     "Service Status Year":1990,
     "Station Notes":"On the dismantled section of the line",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.421056,58.719915 ]
+    },
+    "properties": {
+    "Station ID":604,
+    "Station Name":"Söödi",
+    "Town":"Painküla",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1950,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.460633,58.690769 ]
+    },
+    "properties": {
+    "Station ID":605,
+    "Station Name":"Kalevi",
+    "Town":"Kassinurme",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.564158,58.631252 ]
+    },
+    "properties": {
+    "Station ID":606,
+    "Station Name":"Nava",
+    "Town":"Nava",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.570348,58.598493 ]
+    },
+    "properties": {
+    "Station ID":607,
+    "Station Name":"Mullavere",
+    "Town":"Mullavere",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.651732,58.501739 ]
+    },
+    "properties": {
+    "Station ID":608,
+    "Station Name":"Sootaga",
+    "Town":"Kastli",
+    "Region":"Tartu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.660881,58.449264 ]
+    },
+    "properties": {
+    "Station ID":609,
+    "Station Name":"Vasula",
+    "Town":"Maramaa",
+    "Region":"Tartu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.656178,58.434042 ]
+    },
+    "properties": {
+    "Station ID":610,
+    "Station Name":"Emajõe",
+    "Town":"Vorbuse",
+    "Region":"Tartu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"Old bridge remains nearby",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.661181,58.421461 ]
+    },
+    "properties": {
+    "Station ID":611,
+    "Station Name":"Vorbuse",
+    "Town":"Vorbuse",
+    "Region":"Tartu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.673408,58.405663 ]
+    },
+    "properties": {
+    "Station ID":612,
+    "Station Name":"Tiksoja",
+    "Town":"Tähtvere",
+    "Region":"Tartu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1943,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.046255,59.202995 ]
+    },
+    "properties": {
+    "Station ID":613,
+    "Station Name":"Nõmmküla",
+    "Town":"Nõmmküla",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Preserved, uncertain",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
     "Stop Sequence":0,
     "Line ID":109,
     "Line Name":"Tapa—Tartu—Koidula",

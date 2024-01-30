@@ -601,7 +601,6 @@
 542,Kolu,Kolu,Järva maakond,Estonia,Dismantled/Not built,Closed,2013,58.807979,25.293084,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
 543,Kärevere,Kärevere,Järva maakond,Estonia,Ruined/Disused,Operational,2024,58.724516,25.519133,Building destroyed by fire 2007,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
 544,Lelle,Lelle,Rapla maakond,Estonia,Active,Operational,2024,58.866891,25.008048,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
-558,Rapla,Rapla,Rapla maakond,Estonia,Active,Operational,2024,58.993446,24.832512,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
 544,Lelle,Lelle,Rapla maakond,Estonia,Active,Operational,2024,58.866891,25.008048,,1,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 545,Koogiste,Koogiste,Rapla maakond,Estonia,Residential,Closed,2018,58.792859,24.998159,,2,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 546,Eidapere,Eidapere,Rapla maakond,Estonia,Residential,Closed,2018,58.756927,24.937733,,3,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
@@ -612,6 +611,7 @@
 551,Tammiste,Kuiaru,Pärnu maakond,Estonia,Ruined/Disused,Closed,2011,58.476688,24.714695,,8,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 552,Pulli,Urge,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.423128,24.665571,,9,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 553,Pärnu kaubajaam,Tammiste,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.395153,24.586953,,10,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
+558,Rapla,Rapla,Rapla maakond,Estonia,Active,Operational,2024,58.993446,24.832512,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
 1,Pärnu,Pärnu,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.372409,24.55566,New station (opened 2018),11,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 554,Sindi,Sindi,Pärnu maakond,Estonia,Non-railway use,Closed,1969,58.402344,24.654771,Youth centre for the town/municipality,12,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 548,Viluvere,Viluvere,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.642222,24.865556,,1,36,Viluvere—Vändra,1928,750 mm,Dismantled,1969,,FALSE
@@ -663,3 +663,13 @@
 601,Laane,Logina,Põlva maakond,Estonia,Ruined/Disused,Closed,2001,58.202977,26.877288,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
 602,Kliima,Kliima,Võru maakond,Estonia,Dismantled/Not built,Closed,1990,57.867625,27.517654,On the dismantled section of the line,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
 603,Piiroja,Kolodavitsa,Võru maakond,Estonia,Dismantled/Not built,Closed,1990,57.842713,27.557978,On the dismantled section of the line,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+604,Söödi,Painküla,Jõgeva maakond,Estonia,Residential,Closed,1950,58.719915,26.421056,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+605,Kalevi,Kassinurme,Jõgeva maakond,Estonia,Dismantled/Not built,Closed,2001,58.690769,26.460633,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+606,Nava,Nava,Jõgeva maakond,Estonia,Dismantled/Not built,Closed,2001,58.631252,26.564158,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+607,Mullavere,Mullavere,Jõgeva maakond,Estonia,Dismantled/Not built,Closed,2001,58.598493,26.570348,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+608,Sootaga,Kastli,Tartu maakond,Estonia,Dismantled/Not built,Closed,2001,58.501739,26.651732,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+609,Vasula,Maramaa,Tartu maakond,Estonia,Dismantled/Not built,Closed,2001,58.449264,26.660881,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+610,Emajõe,Vorbuse,Tartu maakond,Estonia,Dismantled/Not built,Closed,2001,58.434042,26.656178,Old bridge remains nearby,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+611,Vorbuse,Vorbuse,Tartu maakond,Estonia,Dismantled/Not built,Closed,2001,58.421461,26.661181,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+612,Tiksoja,Tähtvere,Tartu maakond,Estonia,Dismantled/Not built,Closed,1943,58.405663,26.673408,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+613,Nõmmküla,Nõmmküla,Lääne-Viru maakond,Estonia,"Preserved, uncertain",Closed,2001,59.202995,26.046255,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
