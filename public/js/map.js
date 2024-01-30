@@ -45,12 +45,12 @@ var act = L.geoJSON(stations, {
             var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
             'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
             '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+            '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
             if (feature.properties['Station Notes'] !== ""){
                 popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
             }
-            if (feature.properties['Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+            if (feature.properties['Line Notes'] !== "" ){
+                popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
             }
             layer.bindPopup (popupContent);
         },
@@ -74,12 +74,12 @@ var nrr = L.geoJSON(stations, {
             var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
             'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
             '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+            '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
             if (feature.properties['Station Notes'] !== ""){
                 popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
             }
-            if (feature.properties['Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+            if (feature.properties['Line Notes'] !== "" ){
+                popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
             }
             layer.bindPopup (popupContent);
         },
@@ -103,12 +103,12 @@ var unc = L.geoJSON(stations, {
             var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
             'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
             '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+            '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
             if (feature.properties['Station Notes'] !== ""){
                 popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
             }
-            if (feature.properties['Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+            if (feature.properties['Line Notes'] !== "" ){
+                popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
             }
             layer.bindPopup (popupContent);
         },
@@ -129,12 +129,12 @@ var gon = L.geoJSON(stations, {
         var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
         'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
         '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-        '<br>As of '+feature.properties['Status Year.1']+', line is '+feature.properties['Line Status'].toLowerCase();
+        '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
         if (feature.properties['Station Notes'] !== ""){
             popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
         }
-        if (feature.properties['Notes'] !== "" ){
-            popupContent += '<br>Line-specific notes: '+feature.properties['Notes']
+        if (feature.properties['Line Notes'] !== "" ){
+            popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
         }
         layer.bindPopup (popupContent);
     },
