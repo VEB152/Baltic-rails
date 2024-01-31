@@ -153,14 +153,14 @@ var showmark = {
     fillOpacity: 0.8
 };
 
-var selectedCountries = [];
+var selectedOptions = [];
 let layers = [act, unc, nrr, gon];
 function cngctr () {
-    const ctselm = document.getElementById('nationselect');
-    selectedCountries = Array.from(ctselm.options).filter(option => option.selected).map(option => option.value);
+    const opsel = document.getElementById('optionselect1');
+    selectedOptions = Array.from(opsel.options).filter(option => option.selected).map(option => option.value);
     for (const gjlayer of layers){
         gjlayer.eachLayer(function (layer) {
-            if(selectedCountries.includes(layer.feature.properties['Country']) == false) {
+            if(selectedOptions.includes(layer.feature.properties['Gauge']) == false) {
                 layer.setStyle(hidmark),
                 layer.setInteractive(false)
             } else {
