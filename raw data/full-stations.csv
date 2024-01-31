@@ -8,6 +8,7 @@
 7,Kilingi-Nõmme,Kilingi-Nõmme,Pärnu maakond,Estonia,Residential,Closed,1996,58.151809,24.980583,Sign remains,7,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
 8,Tihemetsa,Leipste,Pärnu maakond,Estonia,Dismantled/Not built,Closed,1996,58.136861,25.028861,,8,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
 9,Mõisaküla,Mõisaküla,Pärnu maakond,Estonia,Non-railway use,Closed,1996,58.092799,25.187871,Museum,9,1,Pärnu–Mõisaküla,1896,1520 mm,Dismantled,2008,Converted from 750mm in 1975,FALSE
+1,Pärnu,Pärnu,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.372409,24.55566,New station (opened 2018),11,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 5,Riisselja,Sigaste,Pärnu maakond,Estonia,Dismantled/Not built,Closed,1975,58.212537,24.821608,,1,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
 10,Ristiküla,Ristiküla,Pärnu maakond,Estonia,Residential,Closed,1975,58.194118,24.746249,Off the main road,2,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
 11,Timmkanali,Kõveri,Pärnu maakond,Estonia,Dismantled/Not built,Closed,1975,58.145856,24.687848,,3,2,Riisselja–Orajõe,1923,750 mm,Dismantled,1975,,FALSE
@@ -47,16 +48,16 @@
 44,Salace,Skalbes,Limbažu novads,Latvia,Ruined/Disused,Closed,1977,57.851532,24.469019,,2,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 45,Lagaste,Zariņi,Limbažu novads,Latvia,Dismantled/Not built,Closed,1977,57.84115,24.51192,,3,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 46,Zonepe,Zonapi,Limbažu novads,Latvia,Residential,Closed,1977,57.783381,24.590523,,4,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
+47,Mežkadaga,Mežkadaga,Limbažu novads,Latvia,Ruined/Disused,Closed,1977,57.756922,24.618116,,5,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
+48,Pāle,Pāle,Limbažu novads,Latvia,Residential,Closed,1979,57.70772,24.68796,Uncertain,6,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
+49,Ārciems,Ārciems,Limbažu novads,Latvia,Residential,Closed,1979,57.684457,24.797126,Uncertain,7,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
+48,Pāle,Pāle,Limbažu novads,Latvia,Residential,Closed,1979,57.70772,24.68796,Uncertain,3,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
 18,Valga,Valga,Valga maakond,Estonia,Active,Operational,2024,57.774717,26.053239,,0,100,Rīga—Valga,1889,1520 mm,Operational,2019,,FALSE
 26,Pendiga,Vilpulka,Valmieras novads,Latvia,Dismantled/Not built,Closed,1996,57.953832,25.270191,Converted to 1524 mm in 1977,21,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
 27,Ķirbiļi,Ķirbēni,Valmieras novads,Latvia,Dismantled/Not built,Closed,1996,58.00441,25.23903,Converted to 1524 mm in 1977,22,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
 28,Ipiķi,Ipiķi,Valmieras novads,Latvia,Ruined/Disused,Closed,1996,58.069433,25.198744,Converted to 1524 mm in 1977,23,6,Rīga—Rūjiena—Ipiķi,1937,1520 mm,Partially operational,2005,Operating as Rīga-Skulte,FALSE
 9,Mõisaküla,Mõisaküla,Pärnu maakond,Estonia,Non-railway use,Closed,1996,58.092799,25.187871,Museum,1,34,Laatre—Viljandi,1897,750 mm,Dismantled,1973,,FALSE
 18,Valga,Valga,Valga maakond,Estonia,Active,Operational,2024,57.774717,26.053239,,1,29,Valga–Koidula,1889,1520 mm,Freight only,2023,Full line service retracted 2001,FALSE
-47,Mežkadaga,Mežkadaga,Limbažu novads,Latvia,Ruined/Disused,Closed,1977,57.756922,24.618116,,5,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
-48,Pāle,Pāle,Limbažu novads,Latvia,Residential,Closed,1979,57.70772,24.68796,Uncertain,6,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
-48,Pāle,Pāle,Limbažu novads,Latvia,Residential,Closed,1979,57.70772,24.68796,Uncertain,3,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
-49,Ārciems,Ārciems,Limbažu novads,Latvia,Residential,Closed,1979,57.684457,24.797126,Uncertain,7,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 49,Ārciems,Ārciems,Limbažu novads,Latvia,Residential,Closed,1979,57.684457,24.797126,Uncertain,4,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
 50,Puikule,Puikules Stacija,Limbažu novads,Latvia,Ruined/Disused,Closed,2000,57.655244,24.888882,,8,5,Ainaži—Valmiera—Smiltene,1902,750 mm,Dismantled,2000,Closed in parts between 1970 and 1979,TRUE
 50,Puikule,Puikules Stacija,Limbažu novads,Latvia,Ruined/Disused,Closed,2000,57.655244,24.888882,,5,5.1,Staicele — Puikule,1911,750 mm,Dismantled,1977,,FALSE
@@ -606,18 +607,17 @@
 546,Eidapere,Eidapere,Rapla maakond,Estonia,Residential,Closed,2018,58.756927,24.937733,,3,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 547,Kõnnu,Kõnnu,Pärnu maakond,Estonia,Residential,Closed,2010,58.72327,24.863497,,4,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 548,Viluvere,Viluvere,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.642222,24.865556,,5,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
+548,Viluvere,Viluvere,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.642222,24.865556,,1,36,Viluvere—Vändra,1928,750 mm,Dismantled,1969,,FALSE
 549,Tootsi,Tootsi,Pärnu maakond,Estonia,Residential,Closed,2018,58.564193,24.810615,,6,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 550,Tori,Selja,Pärnu maakond,Estonia,Residential,Closed,2018,58.509354,24.795063,,7,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 551,Tammiste,Kuiaru,Pärnu maakond,Estonia,Ruined/Disused,Closed,2011,58.476688,24.714695,,8,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 552,Pulli,Urge,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.423128,24.665571,,9,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 553,Pärnu kaubajaam,Tammiste,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.395153,24.586953,,10,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
-558,Rapla,Rapla,Rapla maakond,Estonia,Active,Operational,2024,58.993446,24.832512,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
-1,Pärnu,Pärnu,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.372409,24.55566,New station (opened 2018),11,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
 554,Sindi,Sindi,Pärnu maakond,Estonia,Non-railway use,Closed,1969,58.402344,24.654771,Youth centre for the town/municipality,12,35,Lelle—Pärnu,1928,1520 mm,Freight only,2021,Until 1971 - 750 mm; Closed for Rail Baltica construction,FALSE
-548,Viluvere,Viluvere,Pärnu maakond,Estonia,Ruined/Disused,Closed,2018,58.642222,24.865556,,1,36,Viluvere—Vändra,1928,750 mm,Dismantled,1969,,FALSE
 555,Luuri,Luuri,Pärnu maakond,Estonia,Residential,Closed,1969,58.649161,24.93369,,2,36,Viluvere—Vändra,1928,750 mm,Dismantled,1969,,FALSE
 556,Selja,Luuri,Pärnu maakond,Estonia,Dismantled/Not built,Closed,1969,58.648101,24.956926,,3,36,Viluvere—Vändra,1928,750 mm,Dismantled,1969,,FALSE
 557,Vändra,Vändra,Pärnu maakond,Estonia,Residential,Closed,1969,58.647066,25.034614,,4,36,Viluvere—Vändra,1928,750 mm,Dismantled,1969,,FALSE
+558,Rapla,Rapla,Rapla maakond,Estonia,Active,Operational,2024,58.993446,24.832512,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
 558,Rapla,Rapla,Rapla maakond,Estonia,Active,Operational,2024,58.993446,24.832512,,1,37,Rapla—Virtsu,1931,750 mm,Dismantled,1968,,FALSE
 559,Raikküla,Raela,Rapla maakond,Estonia,Residential,Closed,1968,58.964501,24.762657,,2,37,Rapla—Virtsu,1931,750 mm,Dismantled,1968,,FALSE
 560,Koikse,Koikse,Rapla maakond,Estonia,Residential,Closed,1968,58.95081,24.6645,,3,37,Rapla—Virtsu,1931,750 mm,Dismantled,1968,,FALSE
@@ -673,3 +673,52 @@
 611,Vorbuse,Vorbuse,Tartu maakond,Estonia,Dismantled/Not built,Closed,2001,58.421461,26.661181,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
 612,Tiksoja,Tähtvere,Tartu maakond,Estonia,Dismantled/Not built,Closed,1943,58.405663,26.673408,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
 613,Nõmmküla,Nõmmküla,Lääne-Viru maakond,Estonia,"Preserved, uncertain",Closed,2001,59.202995,26.046255,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+614,Türi,Türi,Järva maakond,Estonia,Active,Operational,2024,58.80476,25.424001,,1,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+615,Kirna,Kirna,Järva maakond,Estonia,Dismantled/Not built,Closed,1972,58.851601,25.470354,,2,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+616,Paide,Paide,Järva maakond,Estonia,Non-railway use,Closed,1972,58.884406,25.555528,Bus station,3,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+617,Mäo,Mäo,Järva maakond,Estonia,Dismantled/Not built,Closed,1972,58.918214,25.61138,,4,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+618,Vodja,Viisu,Järva maakond,Estonia,Residential,Closed,1972,58.93801,25.647029,,5,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+619,Esna,Esna,Järva maakond,Estonia,Residential,Closed,1972,58.97191,25.776685,,6,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+620,Järva-Jaani,Järva-Jaani,Järva maakond,Estonia,Residential,Closed,1972,59.039923,25.885846,,7,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+621,Võhmuta,Võhmuta,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.088558,25.958714,,8,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+622,Vajangu,Vajangu,Lääne-Viru maakond,Estonia,Residential,Closed,1972,59.110532,26.016347,,9,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+623,Tamsalu,Tamsalu,Lääne-Viru maakond,Estonia,Active,Operational,2024,59.160123,26.112008,,10,40,Türi—Paide—Tamsalu,1900,750 mm,Dismantled,1972,Extension to Tamsalu built 1915,FALSE
+614,Türi,Türi,Järva maakond,Estonia,Active,Operational,2024,58.80476,25.424001,,0,108,Tallinn—Viljandi,1901,1520 mm,Operational,1973,Until 1973 - 750 mm gauge,FALSE
+623,Tamsalu,Tamsalu,Lääne-Viru maakond,Estonia,Active,Operational,2024,59.160123,26.112008,,0,109,Tapa—Tartu—Koidula,1876,1520 mm,Operational,2011,Southern section rebuilt,FALSE
+624,Narva,Narva,Ida-Viru maakond,Estonia,Active,Operational,2024,59.368694,28.199648,,1,41,Narva—Musta,1969,1520 mm,Dismantled,2001,Rail line between Auvere and power plant dismantled,FALSE
+625,Energia,Narva,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,2001,59.372232,28.162739,,2,41,Narva—Musta,1969,1520 mm,Dismantled,2001,Rail line between Auvere and power plant dismantled,FALSE
+626,Soldina,Soldina,Ida-Viru maakond,Estonia,"Preserved, uncertain",Closed,2012,59.368733,28.059194,,3,41,Narva—Musta,1969,1520 mm,Dismantled,2001,Rail line between Auvere and power plant dismantled,FALSE
+627,Auvere,Hiiemetsa,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,2013,59.363226,27.924839,,4,41,Narva—Musta,1969,1520 mm,Dismantled,2001,Rail line between Auvere and power plant dismantled,FALSE
+628,Musta,Auvere,Ida-Viru maakond,Estonia,Ruined/Disused,Closed,2001,59.276781,27.905718,Part of Estonia powerplant,5,41,Narva—Musta,1969,1520 mm,Dismantled,2001,Rail line between Auvere and power plant dismantled,FALSE
+629,Sonda,Sonda,Ida-Viru maakond,Estonia,Ruined/Disused,Operational,2024,59.349723,26.842596,,1,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+630,Hirmuse,Soonurme,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.304494,26.914234,,2,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+631,Sirtsi,Sirtsi,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.281051,26.918124,,3,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+632,Lümatu,Lümatu,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.25465,26.906762,,4,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+633,Jõepere,Kaukvere,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.211658,26.916572,,5,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+634,Tudu,Tudu,Lääne-Viru maakond,Estonia,Non-railway use,Closed,1972,59.182195,26.858394,Restaurant,6,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+635,Suigu,Suigu,Lääne-Viru maakond,Estonia,Non-railway use,Closed,1972,59.141454,26.819291,,7,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+636,Peressaare,Peressaare,Ida-Viru maakond,Estonia,Ruined/Disused,Closed,1972,59.107092,26.814719,,8,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+637,Aadumäe,Peressaare,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.084429,26.812041,,9,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+638,Lippoja,Paasvere,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.068454,26.810237,,10,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+639,Punasoo,Paasvere,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,1972,59.0579,26.808971,,11,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+640,Muru,Paadenurme,Jõgeva maakond,Estonia,Dismantled/Not built,Closed,1972,59.015808,26.822777,,12,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+641,Avinurme,Avinurme,Jõgeva maakond,Estonia,Residential,Closed,1972,58.985458,26.846536,"From 2018, museum railway opened",13,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+642,Kõrve,Kõrve,Jõgeva maakond,Estonia,Dismantled/Not built,Closed,1968,58.944012,26.876756,,14,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+643,Piilsi,Piilsi,Jõgeva maakond,Estonia,Residential,Closed,1968,58.917571,26.896459,,15,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+644,Mustvee,Mustvee,Jõgeva maakond,Estonia,Residential,Closed,1968,58.849788,26.942369,,16,42,Sonda—Mustvee,1926,750 mm,Dismantled,1973,~2km rebuilt as a museum railway,FALSE
+624,Narva,Narva,Ida-Viru maakond,Estonia,Active,Operational,2024,59.368694,28.199648,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+625,Energia,Narva,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,2001,59.372232,28.162739,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+626,Soldina,Soldina,Ida-Viru maakond,Estonia,"Preserved, uncertain",Closed,2012,59.368733,28.059194,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+627,Auvere,Hiiemetsa,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,2013,59.363226,27.924839,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+645,Toila,Jõhvi,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1990,59.361503,27.466066,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+646,Sompa,Sompa,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1990,59.357422,27.337772,Building demolished early 2000s.,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+647,Kohtla,Kohtla-Nõmme,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,2014,59.360924,27.217319,Building demolished 2005,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+648,Küttejõu,Kiviõli,Ida-Viru maakond,Estonia,Dismantled/Not built,Closed,1950,59.354981,27.002294,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+649,Vaeküla,Vaeküla,Lääne-Viru maakond,Estonia,"Preserved, uncertain",Closed,2001,59.345766,26.525583,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+650,Udriku,Mäo,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,1980,59.317915,26.0751,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+651,Patika,Läpi,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,2005,59.253611,25.772972,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+652,Rakvere,Rakvere,Lääne-Viru maakond,Estonia,Active,Operational,2024,59.357533,26.364805,,0,110,Tallinn—Narva,1870,1520 mm,Operational,2021,,FALSE
+652,Rakvere,Rakvere,Lääne-Viru maakond,Estonia,Active,Operational,2024,59.357533,26.364805,,1,43,Rakvere—Kunda,1870,1520 mm,Freight only,2019,,FALSE
+653,Ubja,Ubja,Lääne-Viru maakond,Estonia,Dismantled/Not built,Closed,1939,59.417603,26.437638,,2,43,Rakvere—Kunda,1870,1520 mm,Freight only,2019,,FALSE
+654,Aru,Aru,Lääne-Viru maakond,Estonia,Residential,Closed,1939,59.469279,26.491096,,3,43,Rakvere—Kunda,1870,1520 mm,Freight only,2019,,FALSE
+655,Kunda,Kunda,Lääne-Viru maakond,Estonia,"Preserved, uncertain",Closed,1939,59.49333,26.524599,Freight operations only,4,43,Rakvere—Kunda,1870,1520 mm,Freight only,2019,,FALSE

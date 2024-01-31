@@ -248,6 +248,33 @@ var stations = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 24.55566,58.372409 ]
+    },
+    "properties": {
+    "Station ID":1,
+    "Station Name":"Pärnu",
+    "Town":"Pärnu",
+    "Region":"Pärnu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Closed",
+    "Service Status Year":2018,
+    "Station Notes":"New station (opened 2018)",
+    "Stop Sequence":11,
+    "Line ID":35,
+    "Line Name":"Lelle—Pärnu",
+    "Year Opened":1928,
+    "Gauge":"1520 mm",
+    "Line Status":"Freight only",
+    "Line Status Year":2021,
+    "Line Notes":"Until 1971 - 750 mm; Closed for Rail Baltica construction",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 24.821608,58.212537 ]
     },
     "properties": {
@@ -1301,6 +1328,114 @@ var stations = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 24.618116,57.756922 ]
+    },
+    "properties": {
+    "Station ID":47,
+    "Station Name":"Mežkadaga",
+    "Town":"Mežkadaga",
+    "Region":"Limbažu novads",
+    "Country":"Latvia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Closed",
+    "Service Status Year":1977,
+    "Station Notes":"",
+    "Stop Sequence":5,
+    "Line ID":5,
+    "Line Name":"Ainaži—Valmiera—Smiltene",
+    "Year Opened":1902,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2000,
+    "Line Notes":"Closed in parts between 1970 and 1979",
+    "Is in NP-M":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.68796,57.70772 ]
+    },
+    "properties": {
+    "Station ID":48,
+    "Station Name":"Pāle",
+    "Town":"Pāle",
+    "Region":"Limbažu novads",
+    "Country":"Latvia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1979,
+    "Station Notes":"Uncertain",
+    "Stop Sequence":6,
+    "Line ID":5,
+    "Line Name":"Ainaži—Valmiera—Smiltene",
+    "Year Opened":1902,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2000,
+    "Line Notes":"Closed in parts between 1970 and 1979",
+    "Is in NP-M":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.797126,57.684457 ]
+    },
+    "properties": {
+    "Station ID":49,
+    "Station Name":"Ārciems",
+    "Town":"Ārciems",
+    "Region":"Limbažu novads",
+    "Country":"Latvia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1979,
+    "Station Notes":"Uncertain",
+    "Stop Sequence":7,
+    "Line ID":5,
+    "Line Name":"Ainaži—Valmiera—Smiltene",
+    "Year Opened":1902,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2000,
+    "Line Notes":"Closed in parts between 1970 and 1979",
+    "Is in NP-M":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.68796,57.70772 ]
+    },
+    "properties": {
+    "Station ID":48,
+    "Station Name":"Pāle",
+    "Town":"Pāle",
+    "Region":"Limbažu novads",
+    "Country":"Latvia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1979,
+    "Station Notes":"Uncertain",
+    "Stop Sequence":3,
+    "Line ID":5.1,
+    "Line Name":"Staicele — Puikule",
+    "Year Opened":1911,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1977,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 26.053239,57.774717 ]
     },
     "properties": {
@@ -1457,114 +1592,6 @@ var stations = {
     "Line Status Year":2023,
     "Line Notes":"Full line service retracted 2001",
     "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.618116,57.756922 ]
-    },
-    "properties": {
-    "Station ID":47,
-    "Station Name":"Mežkadaga",
-    "Town":"Mežkadaga",
-    "Region":"Limbažu novads",
-    "Country":"Latvia",
-    "Building Condition":"Ruined/Disused",
-    "Service Status":"Closed",
-    "Service Status Year":1977,
-    "Station Notes":"",
-    "Stop Sequence":5,
-    "Line ID":5,
-    "Line Name":"Ainaži—Valmiera—Smiltene",
-    "Year Opened":1902,
-    "Gauge":"750 mm",
-    "Line Status":"Dismantled",
-    "Line Status Year":2000,
-    "Line Notes":"Closed in parts between 1970 and 1979",
-    "Is in NP-M":"TRUE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.68796,57.70772 ]
-    },
-    "properties": {
-    "Station ID":48,
-    "Station Name":"Pāle",
-    "Town":"Pāle",
-    "Region":"Limbažu novads",
-    "Country":"Latvia",
-    "Building Condition":"Residential",
-    "Service Status":"Closed",
-    "Service Status Year":1979,
-    "Station Notes":"Uncertain",
-    "Stop Sequence":6,
-    "Line ID":5,
-    "Line Name":"Ainaži—Valmiera—Smiltene",
-    "Year Opened":1902,
-    "Gauge":"750 mm",
-    "Line Status":"Dismantled",
-    "Line Status Year":2000,
-    "Line Notes":"Closed in parts between 1970 and 1979",
-    "Is in NP-M":"TRUE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.68796,57.70772 ]
-    },
-    "properties": {
-    "Station ID":48,
-    "Station Name":"Pāle",
-    "Town":"Pāle",
-    "Region":"Limbažu novads",
-    "Country":"Latvia",
-    "Building Condition":"Residential",
-    "Service Status":"Closed",
-    "Service Status Year":1979,
-    "Station Notes":"Uncertain",
-    "Stop Sequence":3,
-    "Line ID":5.1,
-    "Line Name":"Staicele — Puikule",
-    "Year Opened":1911,
-    "Gauge":"750 mm",
-    "Line Status":"Dismantled",
-    "Line Status Year":1977,
-    "Line Notes":"",
-    "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.797126,57.684457 ]
-    },
-    "properties": {
-    "Station ID":49,
-    "Station Name":"Ārciems",
-    "Town":"Ārciems",
-    "Region":"Limbažu novads",
-    "Country":"Latvia",
-    "Building Condition":"Residential",
-    "Service Status":"Closed",
-    "Service Status Year":1979,
-    "Station Notes":"Uncertain",
-    "Stop Sequence":7,
-    "Line ID":5,
-    "Line Name":"Ainaži—Valmiera—Smiltene",
-    "Year Opened":1902,
-    "Gauge":"750 mm",
-    "Line Status":"Dismantled",
-    "Line Status Year":2000,
-    "Line Notes":"Closed in parts between 1970 and 1979",
-    "Is in NP-M":"TRUE"
     }
   },
   {
@@ -16394,6 +16421,33 @@ var stations = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 24.865556,58.642222 ]
+    },
+    "properties": {
+    "Station ID":548,
+    "Station Name":"Viluvere",
+    "Town":"Viluvere",
+    "Region":"Pärnu maakond",
+    "Country":"Estonia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Closed",
+    "Service Status Year":2018,
+    "Station Notes":"",
+    "Stop Sequence":1,
+    "Line ID":36,
+    "Line Name":"Viluvere—Vändra",
+    "Year Opened":1928,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1969,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 24.810615,58.564193 ]
     },
     "properties": {
@@ -16529,60 +16583,6 @@ var stations = {
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 24.832512,58.993446 ]
-    },
-    "properties": {
-    "Station ID":558,
-    "Station Name":"Rapla",
-    "Town":"Rapla",
-    "Region":"Rapla maakond",
-    "Country":"Estonia",
-    "Building Condition":"Active",
-    "Service Status":"Operational",
-    "Service Status Year":2024,
-    "Station Notes":"",
-    "Stop Sequence":0,
-    "Line ID":108,
-    "Line Name":"Tallinn—Viljandi",
-    "Year Opened":1901,
-    "Gauge":"1520 mm",
-    "Line Status":"Operational",
-    "Line Status Year":1973,
-    "Line Notes":"Until 1973 - 750 mm gauge",
-    "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.55566,58.372409 ]
-    },
-    "properties": {
-    "Station ID":1,
-    "Station Name":"Pärnu",
-    "Town":"Pärnu",
-    "Region":"Pärnu maakond",
-    "Country":"Estonia",
-    "Building Condition":"Ruined/Disused",
-    "Service Status":"Closed",
-    "Service Status Year":2018,
-    "Station Notes":"New station (opened 2018)",
-    "Stop Sequence":11,
-    "Line ID":35,
-    "Line Name":"Lelle—Pärnu",
-    "Year Opened":1928,
-    "Gauge":"1520 mm",
-    "Line Status":"Freight only",
-    "Line Status Year":2021,
-    "Line Notes":"Until 1971 - 750 mm; Closed for Rail Baltica construction",
-    "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ 24.654771,58.402344 ]
     },
     "properties": {
@@ -16603,33 +16603,6 @@ var stations = {
     "Line Status":"Freight only",
     "Line Status Year":2021,
     "Line Notes":"Until 1971 - 750 mm; Closed for Rail Baltica construction",
-    "Is in NP-M":"FALSE"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
-       "coordinates":  [ 24.865556,58.642222 ]
-    },
-    "properties": {
-    "Station ID":548,
-    "Station Name":"Viluvere",
-    "Town":"Viluvere",
-    "Region":"Pärnu maakond",
-    "Country":"Estonia",
-    "Building Condition":"Ruined/Disused",
-    "Service Status":"Closed",
-    "Service Status Year":2018,
-    "Station Notes":"",
-    "Stop Sequence":1,
-    "Line ID":36,
-    "Line Name":"Viluvere—Vändra",
-    "Year Opened":1928,
-    "Gauge":"750 mm",
-    "Line Status":"Dismantled",
-    "Line Status Year":1969,
-    "Line Notes":"",
     "Is in NP-M":"FALSE"
     }
   },
@@ -16711,6 +16684,33 @@ var stations = {
     "Line Status":"Dismantled",
     "Line Status Year":1969,
     "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.832512,58.993446 ]
+    },
+    "properties": {
+    "Station ID":558,
+    "Station Name":"Rapla",
+    "Town":"Rapla",
+    "Region":"Rapla maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":108,
+    "Line Name":"Tallinn—Viljandi",
+    "Year Opened":1901,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":1973,
+    "Line Notes":"Until 1973 - 750 mm gauge",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18196,6 +18196,1329 @@ var stations = {
     "Line Status":"Operational",
     "Line Status Year":2011,
     "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.424001,58.80476 ]
+    },
+    "properties": {
+    "Station ID":614,
+    "Station Name":"Türi",
+    "Town":"Türi",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":1,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.470354,58.851601 ]
+    },
+    "properties": {
+    "Station ID":615,
+    "Station Name":"Kirna",
+    "Town":"Kirna",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":2,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.555528,58.884406 ]
+    },
+    "properties": {
+    "Station ID":616,
+    "Station Name":"Paide",
+    "Town":"Paide",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Non-railway use",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"Bus station",
+    "Stop Sequence":3,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.61138,58.918214 ]
+    },
+    "properties": {
+    "Station ID":617,
+    "Station Name":"Mäo",
+    "Town":"Mäo",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":4,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.647029,58.93801 ]
+    },
+    "properties": {
+    "Station ID":618,
+    "Station Name":"Vodja",
+    "Town":"Viisu",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":5,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.776685,58.97191 ]
+    },
+    "properties": {
+    "Station ID":619,
+    "Station Name":"Esna",
+    "Town":"Esna",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":6,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.885846,59.039923 ]
+    },
+    "properties": {
+    "Station ID":620,
+    "Station Name":"Järva-Jaani",
+    "Town":"Järva-Jaani",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":7,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.958714,59.088558 ]
+    },
+    "properties": {
+    "Station ID":621,
+    "Station Name":"Võhmuta",
+    "Town":"Võhmuta",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":8,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.016347,59.110532 ]
+    },
+    "properties": {
+    "Station ID":622,
+    "Station Name":"Vajangu",
+    "Town":"Vajangu",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":9,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.112008,59.160123 ]
+    },
+    "properties": {
+    "Station ID":623,
+    "Station Name":"Tamsalu",
+    "Town":"Tamsalu",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":10,
+    "Line ID":40,
+    "Line Name":"Türi—Paide—Tamsalu",
+    "Year Opened":1900,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1972,
+    "Line Notes":"Extension to Tamsalu built 1915",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.424001,58.80476 ]
+    },
+    "properties": {
+    "Station ID":614,
+    "Station Name":"Türi",
+    "Town":"Türi",
+    "Region":"Järva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":108,
+    "Line Name":"Tallinn—Viljandi",
+    "Year Opened":1901,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":1973,
+    "Line Notes":"Until 1973 - 750 mm gauge",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.112008,59.160123 ]
+    },
+    "properties": {
+    "Station ID":623,
+    "Station Name":"Tamsalu",
+    "Town":"Tamsalu",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":109,
+    "Line Name":"Tapa—Tartu—Koidula",
+    "Year Opened":1876,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2011,
+    "Line Notes":"Southern section rebuilt",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.199648,59.368694 ]
+    },
+    "properties": {
+    "Station ID":624,
+    "Station Name":"Narva",
+    "Town":"Narva",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":1,
+    "Line ID":41,
+    "Line Name":"Narva—Musta",
+    "Year Opened":1969,
+    "Gauge":"1520 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2001,
+    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.162739,59.372232 ]
+    },
+    "properties": {
+    "Station ID":625,
+    "Station Name":"Energia",
+    "Town":"Narva",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":2,
+    "Line ID":41,
+    "Line Name":"Narva—Musta",
+    "Year Opened":1969,
+    "Gauge":"1520 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2001,
+    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.059194,59.368733 ]
+    },
+    "properties": {
+    "Station ID":626,
+    "Station Name":"Soldina",
+    "Town":"Soldina",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Preserved, uncertain",
+    "Service Status":"Closed",
+    "Service Status Year":2012,
+    "Station Notes":"",
+    "Stop Sequence":3,
+    "Line ID":41,
+    "Line Name":"Narva—Musta",
+    "Year Opened":1969,
+    "Gauge":"1520 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2001,
+    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.924839,59.363226 ]
+    },
+    "properties": {
+    "Station ID":627,
+    "Station Name":"Auvere",
+    "Town":"Hiiemetsa",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2013,
+    "Station Notes":"",
+    "Stop Sequence":4,
+    "Line ID":41,
+    "Line Name":"Narva—Musta",
+    "Year Opened":1969,
+    "Gauge":"1520 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2001,
+    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.905718,59.276781 ]
+    },
+    "properties": {
+    "Station ID":628,
+    "Station Name":"Musta",
+    "Town":"Auvere",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"Part of Estonia powerplant",
+    "Stop Sequence":5,
+    "Line ID":41,
+    "Line Name":"Narva—Musta",
+    "Year Opened":1969,
+    "Gauge":"1520 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":2001,
+    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.842596,59.349723 ]
+    },
+    "properties": {
+    "Station ID":629,
+    "Station Name":"Sonda",
+    "Town":"Sonda",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":1,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.914234,59.304494 ]
+    },
+    "properties": {
+    "Station ID":630,
+    "Station Name":"Hirmuse",
+    "Town":"Soonurme",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":2,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.918124,59.281051 ]
+    },
+    "properties": {
+    "Station ID":631,
+    "Station Name":"Sirtsi",
+    "Town":"Sirtsi",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":3,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.906762,59.25465 ]
+    },
+    "properties": {
+    "Station ID":632,
+    "Station Name":"Lümatu",
+    "Town":"Lümatu",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":4,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.916572,59.211658 ]
+    },
+    "properties": {
+    "Station ID":633,
+    "Station Name":"Jõepere",
+    "Town":"Kaukvere",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":5,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.858394,59.182195 ]
+    },
+    "properties": {
+    "Station ID":634,
+    "Station Name":"Tudu",
+    "Town":"Tudu",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Non-railway use",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"Restaurant",
+    "Stop Sequence":6,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.819291,59.141454 ]
+    },
+    "properties": {
+    "Station ID":635,
+    "Station Name":"Suigu",
+    "Town":"Suigu",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Non-railway use",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":7,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.814719,59.107092 ]
+    },
+    "properties": {
+    "Station ID":636,
+    "Station Name":"Peressaare",
+    "Town":"Peressaare",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Ruined/Disused",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":8,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.812041,59.084429 ]
+    },
+    "properties": {
+    "Station ID":637,
+    "Station Name":"Aadumäe",
+    "Town":"Peressaare",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":9,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.810237,59.068454 ]
+    },
+    "properties": {
+    "Station ID":638,
+    "Station Name":"Lippoja",
+    "Town":"Paasvere",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":10,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.808971,59.0579 ]
+    },
+    "properties": {
+    "Station ID":639,
+    "Station Name":"Punasoo",
+    "Town":"Paasvere",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":11,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.822777,59.015808 ]
+    },
+    "properties": {
+    "Station ID":640,
+    "Station Name":"Muru",
+    "Town":"Paadenurme",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"",
+    "Stop Sequence":12,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.846536,58.985458 ]
+    },
+    "properties": {
+    "Station ID":641,
+    "Station Name":"Avinurme",
+    "Town":"Avinurme",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1972,
+    "Station Notes":"From 2018, museum railway opened",
+    "Stop Sequence":13,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.876756,58.944012 ]
+    },
+    "properties": {
+    "Station ID":642,
+    "Station Name":"Kõrve",
+    "Town":"Kõrve",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1968,
+    "Station Notes":"",
+    "Stop Sequence":14,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.896459,58.917571 ]
+    },
+    "properties": {
+    "Station ID":643,
+    "Station Name":"Piilsi",
+    "Town":"Piilsi",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1968,
+    "Station Notes":"",
+    "Stop Sequence":15,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.942369,58.849788 ]
+    },
+    "properties": {
+    "Station ID":644,
+    "Station Name":"Mustvee",
+    "Town":"Mustvee",
+    "Region":"Jõgeva maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1968,
+    "Station Notes":"",
+    "Stop Sequence":16,
+    "Line ID":42,
+    "Line Name":"Sonda—Mustvee",
+    "Year Opened":1926,
+    "Gauge":"750 mm",
+    "Line Status":"Dismantled",
+    "Line Status Year":1973,
+    "Line Notes":"~2km rebuilt as a museum railway",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.199648,59.368694 ]
+    },
+    "properties": {
+    "Station ID":624,
+    "Station Name":"Narva",
+    "Town":"Narva",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.162739,59.372232 ]
+    },
+    "properties": {
+    "Station ID":625,
+    "Station Name":"Energia",
+    "Town":"Narva",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.059194,59.368733 ]
+    },
+    "properties": {
+    "Station ID":626,
+    "Station Name":"Soldina",
+    "Town":"Soldina",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Preserved, uncertain",
+    "Service Status":"Closed",
+    "Service Status Year":2012,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.924839,59.363226 ]
+    },
+    "properties": {
+    "Station ID":627,
+    "Station Name":"Auvere",
+    "Town":"Hiiemetsa",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2013,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.466066,59.361503 ]
+    },
+    "properties": {
+    "Station ID":645,
+    "Station Name":"Toila",
+    "Town":"Jõhvi",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1990,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.337772,59.357422 ]
+    },
+    "properties": {
+    "Station ID":646,
+    "Station Name":"Sompa",
+    "Town":"Sompa",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1990,
+    "Station Notes":"Building demolished early 2000s.",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.217319,59.360924 ]
+    },
+    "properties": {
+    "Station ID":647,
+    "Station Name":"Kohtla",
+    "Town":"Kohtla-Nõmme",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2014,
+    "Station Notes":"Building demolished 2005",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.002294,59.354981 ]
+    },
+    "properties": {
+    "Station ID":648,
+    "Station Name":"Küttejõu",
+    "Town":"Kiviõli",
+    "Region":"Ida-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1950,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.525583,59.345766 ]
+    },
+    "properties": {
+    "Station ID":649,
+    "Station Name":"Vaeküla",
+    "Town":"Vaeküla",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Preserved, uncertain",
+    "Service Status":"Closed",
+    "Service Status Year":2001,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.0751,59.317915 ]
+    },
+    "properties": {
+    "Station ID":650,
+    "Station Name":"Udriku",
+    "Town":"Mäo",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1980,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.772972,59.253611 ]
+    },
+    "properties": {
+    "Station ID":651,
+    "Station Name":"Patika",
+    "Town":"Läpi",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":2005,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.364805,59.357533 ]
+    },
+    "properties": {
+    "Station ID":652,
+    "Station Name":"Rakvere",
+    "Town":"Rakvere",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":0,
+    "Line ID":110,
+    "Line Name":"Tallinn—Narva",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Operational",
+    "Line Status Year":2021,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.364805,59.357533 ]
+    },
+    "properties": {
+    "Station ID":652,
+    "Station Name":"Rakvere",
+    "Town":"Rakvere",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Active",
+    "Service Status":"Operational",
+    "Service Status Year":2024,
+    "Station Notes":"",
+    "Stop Sequence":1,
+    "Line ID":43,
+    "Line Name":"Rakvere—Kunda",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Freight only",
+    "Line Status Year":2019,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.437638,59.417603 ]
+    },
+    "properties": {
+    "Station ID":653,
+    "Station Name":"Ubja",
+    "Town":"Ubja",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Dismantled/Not built",
+    "Service Status":"Closed",
+    "Service Status Year":1939,
+    "Station Notes":"",
+    "Stop Sequence":2,
+    "Line ID":43,
+    "Line Name":"Rakvere—Kunda",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Freight only",
+    "Line Status Year":2019,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.491096,59.469279 ]
+    },
+    "properties": {
+    "Station ID":654,
+    "Station Name":"Aru",
+    "Town":"Aru",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Residential",
+    "Service Status":"Closed",
+    "Service Status Year":1939,
+    "Station Notes":"",
+    "Stop Sequence":3,
+    "Line ID":43,
+    "Line Name":"Rakvere—Kunda",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Freight only",
+    "Line Status Year":2019,
+    "Line Notes":"",
+    "Is in NP-M":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.524599,59.49333 ]
+    },
+    "properties": {
+    "Station ID":655,
+    "Station Name":"Kunda",
+    "Town":"Kunda",
+    "Region":"Lääne-Viru maakond",
+    "Country":"Estonia",
+    "Building Condition":"Preserved, uncertain",
+    "Service Status":"Closed",
+    "Service Status Year":1939,
+    "Station Notes":"Freight operations only",
+    "Stop Sequence":4,
+    "Line ID":43,
+    "Line Name":"Rakvere—Kunda",
+    "Year Opened":1870,
+    "Gauge":"1520 mm",
+    "Line Status":"Freight only",
+    "Line Status Year":2019,
+    "Line Notes":"",
     "Is in NP-M":"FALSE"
     }
   }
