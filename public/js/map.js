@@ -1,13 +1,3 @@
-//Markers for GeoJSON
-var geojsonMarkerOptions = {
-    radius: 8,
-    fillColor: "#ff7800",
-    color: "#000",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 0.8
-};
-
 //base layer OSM
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -29,118 +19,68 @@ var esri = L.tileLayer('http://services.arcgisonline.com/ArcGis/rest/services/Wo
     attribution: '<a href="https://www.esri.com/">ESRI,</a>FAO,NOAA,USGS'
 });
 
+//Markers for GeoJSON
+var geojsonMarkerOptions = {
+    radius: 8,
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+};
+
+function getColor(ch) {
+    return ch == 'Active' ? '#FC8D62' :
+           ch == 'Non-railway use'  ? '#FFD92F' :
+           ch == 'Residential'  ? '#A6D854' :
+           ch == 'Preserved, uncertain'  ? '#8DA0CB' :
+           ch == 'Ruined/Disused'   ? '#E78AC3' :
+                      '#66C2A5';
+}
+
+var act = L.layerGroup();
+var nrr = L.layerGroup();
+var unc = L.layerGroup();
+var gon = L.layerGroup();
+
+function stationfeature (feature, layer) {
+    switch (layer.feature.properties['Building Condition']) {
+        case 'Active': layer.addTo(act)
+        break;
+        case 'Residential': layer.addTo(nrr)
+        break;
+        case 'Non-railway use': layer.addTo(nrr)
+        break;
+        case 'Ruined/Disused': layer.addTo(unc)
+        break;
+        case 'Preserved, uncertain': layer.addTo(unc)
+        break;
+        case 'Dismantled/Not built': layer.addTo(gon)
+        break;
+    };
+    var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
+    'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Service Status Year']+
+    '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
+    '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
+    if (feature.properties['Station Notes'] !== ""){
+        popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
+    }
+    if (feature.properties['Line Notes'] !== "" ){
+        popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
+    }
+    layer.bindPopup (popupContent);
+};
+
 //overlay layer - stations from geoJSON
-// 1 - adding active stations
-var act = L.geoJSON(stations, {
-    filter: function (feature) {
-        return (feature.properties['Building Condition'] == 'Active');
-    },
+L.geoJSON(stations, {
     style: function (feature) {
-            return {fillColor: "#FC8D62"};
+            return {fillColor: getColor(feature.properties['Building Condition'])};
         },
+    onEachFeature: stationfeature,
     pointToLayer: function (feature, latlng) {
             return L.circleMarker(latlng, geojsonMarkerOptions);
-        },
-    onEachFeature: function (feature, layer) {
-            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
-            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
-            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
-            if (feature.properties['Station Notes'] !== ""){
-                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
-            }
-            if (feature.properties['Line Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
-            }
-            layer.bindPopup (popupContent);
-        },
-});
-
-// 2 - adding non-railway used stations
-var nrr = L.geoJSON(stations, {
-    filter: function (feature) {
-        return ((feature.properties['Building Condition'] == 'Non-railway use') || (feature.properties['Building Condition'] == 'Residential'));
-    },
-    style: function (feature) {
-        switch (feature.properties['Building Condition'])
-        {
-            case 'Non-railway use': return {fillColor: "#FFD92F"};
-            case 'Residential': return {fillColor: "#A6D854"};
-        }},
-    pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, geojsonMarkerOptions);
-        },
-    onEachFeature: function (feature, layer) {
-            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
-            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
-            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
-            if (feature.properties['Station Notes'] !== ""){
-                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
-            }
-            if (feature.properties['Line Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
-            }
-            layer.bindPopup (popupContent);
-        },
-});
-
-// 3 - adding disused and ruined stations
-var unc = L.geoJSON(stations, {
-    filter: function (feature) {
-        return ((feature.properties['Building Condition'] == 'Preserved, uncertain') || (feature.properties['Building Condition'] == 'Ruined/Disused'));
-    },
-    style: function (feature) {
-        switch (feature.properties['Building Condition'])
-        {
-            case 'Preserved, uncertain': return {fillColor: "#8DA0CB"};
-            case 'Ruined/Disused': return {fillColor: "#E78AC3"};
-        }},
-    pointToLayer: function (feature, latlng) {
-            return L.circleMarker(latlng, geojsonMarkerOptions);
-        },
-    onEachFeature: function (feature, layer) {
-            var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
-            'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
-            '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-            '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
-            if (feature.properties['Station Notes'] !== ""){
-                popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
-            }
-            if (feature.properties['Line Notes'] !== "" ){
-                popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
-            }
-            layer.bindPopup (popupContent);
-        },
-});
-
-// 4- all others
-var gon = L.geoJSON(stations, {
-    filter: function (feature) {
-        return (feature.properties['Building Condition'] == 'Dismantled/Not built');
-    },
-    style: function (feature) {
-        return {fillColor: "#66C2A5"};
-    },
-    pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
-    },
-    onEachFeature: function (feature, layer) {
-        var popupContent = '<h4>'+feature.properties['Station Name']+'</h4>'+
-        'Service Status: ' + feature.properties['Service Status'] + ' as of ' + feature.properties['Status Year']+
-        '<br>Part of '+feature.properties['Line Name']+' '+feature.properties['Gauge']+' line, opened in '+feature.properties['Year Opened']+
-        '<br>As of '+feature.properties['Line Status Year']+', line is '+feature.properties['Line Status'].toLowerCase();
-        if (feature.properties['Station Notes'] !== ""){
-            popupContent += '<br>Station-specific notes: '+feature.properties['Station Notes']
         }
-        if (feature.properties['Line Notes'] !== "" ){
-            popupContent += '<br>Line-specific notes: '+feature.properties['Line Notes']
-        }
-        layer.bindPopup (popupContent);
-    },
 });
 
-//actually making the map + combining layers for the controls; OSM + markers for existing stations enabled by default
 var map =
     L.map('map', {
         center: [56.999, 24.675],
@@ -180,3 +120,56 @@ legend.onAdd = function(map) {
 legend.addTo(map);
 
 L.control.scale({position: 'bottomright'}).addTo(map);
+
+//hide and unhide markers for switching countries
+//setInteractive - from Jadaw1n @ https://github.com/Leaflet/Leaflet/issues/5442
+L.Layer.prototype.setInteractive = function (interactive) {
+    if (this.getLayers) {
+        this.getLayers().forEach(layer => {
+            layer.setInteractive(interactive);
+        });
+        return;
+    }
+    if (!this._path) {
+        return;
+    }
+
+    this.options.interactive = interactive;
+
+    if (interactive) {
+        L.DomUtil.addClass(this._path, 'leaflet-interactive');
+    } else {
+        L.DomUtil.removeClass(this._path, 'leaflet-interactive');
+    }
+};
+
+var hidmark = {
+    opacity: 0,
+    fillOpacity: 0
+};
+    
+var showmark = {
+    opacity: 1,
+    fillOpacity: 0.8
+};
+
+var selectedCountries = [];
+let layers = [act, unc, nrr, gon];
+function cngctr () {
+    const ctselm = document.getElementById('nationselect');
+    selectedCountries = Array.from(ctselm.options).filter(option => option.selected).map(option => option.value);
+    for (const gjlayer of layers){
+        gjlayer.eachLayer(function (layer) {
+            if(selectedCountries.includes(layer.feature.properties['Country']) == false) {
+                layer.setStyle(hidmark),
+                layer.setInteractive(false)
+            } else {
+                layer.setStyle(showmark),
+                layer.setInteractive(true)
+            };
+        })
+    };
+    alert (nation);
+};
+
+//cngctr();
