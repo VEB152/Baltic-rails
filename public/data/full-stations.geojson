@@ -1,4 +1,4 @@
-var stations = {
+stations = {
    "type": "FeatureCollection",
    "features": [
   {
@@ -829,12 +829,12 @@ var stations = {
     "Station Notes":"Info outside",
     "Stop Sequence":1,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -856,12 +856,12 @@ var stations = {
     "Station Notes":"LV branch",
     "Stop Sequence":2,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -883,12 +883,12 @@ var stations = {
     "Station Notes":"EE branch",
     "Stop Sequence":3,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -910,12 +910,12 @@ var stations = {
     "Station Notes":"EE branch",
     "Stop Sequence":4,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -937,12 +937,12 @@ var stations = {
     "Station Notes":"EE and LV branches merge",
     "Stop Sequence":5,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -964,12 +964,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":6,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -991,12 +991,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":7,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1018,12 +1018,12 @@ var stations = {
     "Station Notes":"Approximate location",
     "Stop Sequence":8,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1045,12 +1045,12 @@ var stations = {
     "Station Notes":"Industrial",
     "Stop Sequence":9,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1072,12 +1072,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":10,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1099,12 +1099,12 @@ var stations = {
     "Station Notes":"Café",
     "Stop Sequence":11,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1126,12 +1126,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":12,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1153,12 +1153,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":13,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1180,12 +1180,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":14,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1207,12 +1207,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":15,
     "Line ID":4,
-    "Line Name":"Valka-Gulbene",
+    "Line Name":"Valka-Alūksne",
     "Year Opened":1915,
     "Gauge":"750 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":1973,
-    "Line Notes":"Ape-Valga closed 1970, operating as Gulbene-Alūksne",
+    "Line Notes":"Gulbene-Alūksne still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1477,12 +1477,12 @@ var stations = {
     "Station Notes":"Converted to 1524 mm in 1977",
     "Stop Sequence":21,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1504,12 +1504,12 @@ var stations = {
     "Station Notes":"Converted to 1524 mm in 1977",
     "Stop Sequence":22,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1531,12 +1531,12 @@ var stations = {
     "Station Notes":"Converted to 1524 mm in 1977",
     "Stop Sequence":23,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1590,7 +1590,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -1693,12 +1693,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":11,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2152,12 +2152,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":12,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2179,12 +2179,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":13,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2206,12 +2206,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":14,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2233,12 +2233,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":15,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2260,12 +2260,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":16,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2287,12 +2287,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":17,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2314,12 +2314,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":18,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2341,12 +2341,12 @@ var stations = {
     "Station Notes":"Approximate location",
     "Stop Sequence":19,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2422,12 +2422,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":1,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2503,12 +2503,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":2,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2530,12 +2530,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":3,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2557,12 +2557,12 @@ var stations = {
     "Station Notes":"Station keeper houses used, shelter ruined",
     "Stop Sequence":4,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2584,12 +2584,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":5,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2611,12 +2611,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":6,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2638,12 +2638,12 @@ var stations = {
     "Station Notes":"Bus station building",
     "Stop Sequence":7,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2665,12 +2665,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":8,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2692,12 +2692,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":9,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2719,12 +2719,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":10,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -2989,12 +2989,12 @@ var stations = {
     "Station Notes":"New station opened 1977",
     "Stop Sequence":20,
     "Line ID":6,
-    "Line Name":"Rīga—Rūjiena—Ipiķi",
+    "Line Name":"(Rīga—)Skulte—Rūjiena—Ipiķi",
     "Year Opened":1937,
     "Gauge":"1520 mm",
-    "Line Status":"Partially operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2005,
-    "Line Notes":"Operating as Rīga-Skulte",
+    "Line Notes":"Rīga—Skulte still operating",
     "Is in NP-M":"FALSE"
     }
   },
@@ -3615,7 +3615,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -3966,7 +3966,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -4560,7 +4560,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -4612,9 +4612,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5289,7 +5289,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5343,7 +5343,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5559,7 +5559,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5586,7 +5586,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5613,7 +5613,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5640,7 +5640,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5667,7 +5667,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5721,7 +5721,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5748,7 +5748,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5775,7 +5775,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5802,7 +5802,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5829,7 +5829,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5856,7 +5856,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -5883,7 +5883,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2012,
-    "Line Notes":"Dismantled between Ālande and Priekule, freight only",
+    "Line Notes":"Dismantled between Ālande and Priekule",
     "Is in NP-M":"TRUE"
     }
   },
@@ -8743,9 +8743,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -8826,7 +8826,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -8851,9 +8851,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -8878,9 +8878,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -8905,9 +8905,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -8932,9 +8932,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -8986,9 +8986,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9013,9 +9013,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9040,9 +9040,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9067,9 +9067,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9094,9 +9094,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9121,9 +9121,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9148,9 +9148,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9175,9 +9175,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9202,9 +9202,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9229,9 +9229,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9256,9 +9256,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9283,9 +9283,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9310,9 +9310,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9337,9 +9337,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9364,9 +9364,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9391,9 +9391,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9418,9 +9418,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9445,9 +9445,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9472,9 +9472,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9499,9 +9499,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9526,9 +9526,9 @@ var stations = {
     "Line Name":"Jelgava—Liepāja",
     "Year Opened":1928,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Partially operational",
     "Line Status Year":2023,
-    "Line Notes":"Most stations not served siince 2001, daily service restarted 2023",
+    "Line Notes":"Daily express service",
     "Is in NP-M":"TRUE"
     }
   },
@@ -9825,7 +9825,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -10932,7 +10932,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2007,
-    "Line Notes":"Cargo traffic closed 1990; at Meirāni becomes route P82",
+    "Line Notes":"Cargo traffic closed 1990",
     "Is in NP-M":"TRUE"
     }
   },
@@ -10959,7 +10959,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2007,
-    "Line Notes":"Cargo traffic closed 1990; at Meirāni becomes route P82",
+    "Line Notes":"Cargo traffic closed 1990",
     "Is in NP-M":"TRUE"
     }
   },
@@ -10986,7 +10986,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2007,
-    "Line Notes":"Cargo traffic closed 1990; at Meirāni becomes route P82",
+    "Line Notes":"Cargo traffic closed 1990",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11013,7 +11013,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2007,
-    "Line Notes":"Cargo traffic closed 1990; at Meirāni becomes route P82",
+    "Line Notes":"Cargo traffic closed 1990",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11040,7 +11040,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2007,
-    "Line Notes":"Cargo traffic closed 1990; at Meirāni becomes route P82",
+    "Line Notes":"Cargo traffic closed 1990",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11067,7 +11067,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2007,
-    "Line Notes":"Cargo traffic closed 1990; at Meirāni becomes route P82",
+    "Line Notes":"Cargo traffic closed 1990",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11337,7 +11337,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11364,7 +11364,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2020,
-    "Line Notes":"Vilnius-Turmantas-Daugavpils between 2017 and 2020",
+    "Line Notes":"Regular service between 2017 and 2020",
     "Is in NP-M":"FALSE"
     }
   },
@@ -11418,7 +11418,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11445,7 +11445,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11472,7 +11472,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11499,7 +11499,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11526,7 +11526,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11553,7 +11553,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11580,7 +11580,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11607,7 +11607,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11634,7 +11634,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11661,7 +11661,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11688,7 +11688,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11715,7 +11715,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11742,7 +11742,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11769,7 +11769,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11796,7 +11796,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11823,7 +11823,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11850,7 +11850,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11877,7 +11877,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11904,7 +11904,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11931,7 +11931,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11958,7 +11958,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -11985,7 +11985,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -12012,7 +12012,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -12039,7 +12039,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -12066,7 +12066,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -12093,7 +12093,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":1999,
-    "Line Notes":"Until 2015, stops for trains to St. Petersburg",
+    "Line Notes":"Until 2015 - select stations for international traffic",
     "Is in NP-M":"TRUE"
     }
   },
@@ -12120,7 +12120,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12147,7 +12147,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12174,7 +12174,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12201,7 +12201,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12228,7 +12228,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12255,7 +12255,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12282,7 +12282,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12309,7 +12309,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12336,7 +12336,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12363,7 +12363,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12390,7 +12390,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12417,7 +12417,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12444,7 +12444,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12471,7 +12471,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12498,7 +12498,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12525,7 +12525,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Partially operational",
     "Line Status Year":2024,
-    "Line Notes":"Served only by international express train",
+    "Line Notes":"International express service only",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12552,7 +12552,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2020,
-    "Line Notes":"Vilnius-Turmantas-Daugavpils between 2017 and 2020",
+    "Line Notes":"Regular service between 2017 and 2020",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12606,7 +12606,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2020,
-    "Line Notes":"Vilnius-Turmantas-Daugavpils between 2017 and 2020",
+    "Line Notes":"Regular service between 2017 and 2020",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12633,7 +12633,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2020,
-    "Line Notes":"Vilnius-Turmantas-Daugavpils between 2017 and 2020",
+    "Line Notes":"Regular service between 2017 and 2020",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12660,7 +12660,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2020,
-    "Line Notes":"Vilnius-Turmantas-Daugavpils between 2017 and 2020",
+    "Line Notes":"Regular service between 2017 and 2020",
     "Is in NP-M":"FALSE"
     }
   },
@@ -12687,7 +12687,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2020,
-    "Line Notes":"Vilnius-Turmantas-Daugavpils between 2017 and 2020",
+    "Line Notes":"Regular service between 2017 and 2020",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13308,7 +13308,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13335,7 +13335,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13362,7 +13362,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13389,7 +13389,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13416,7 +13416,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13443,7 +13443,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13470,7 +13470,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13497,7 +13497,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13524,7 +13524,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13551,7 +13551,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13578,7 +13578,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13605,7 +13605,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13632,7 +13632,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13659,7 +13659,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13686,7 +13686,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13713,7 +13713,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13740,7 +13740,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13767,7 +13767,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13794,7 +13794,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -13821,7 +13821,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15144,7 +15144,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Freight only",
     "Line Status Year":2023,
-    "Line Notes":"Full line service retracted 2001",
+    "Line Notes":"Seasonal service to Piusa from Koidula",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15792,7 +15792,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15819,7 +15819,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15846,7 +15846,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15873,7 +15873,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15900,7 +15900,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15927,7 +15927,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15954,7 +15954,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -15981,7 +15981,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2024,
-    "Line Notes":"Select stops closed during renovations; undergoing modernization",
+    "Line Notes":"Limited service on Jõgeva—Tartu—Valga",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17245,12 +17245,12 @@ var stations = {
     "Station Notes":"Building used as a clinic",
     "Stop Sequence":1,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17272,12 +17272,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":2,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17299,12 +17299,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":3,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17326,12 +17326,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":4,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17353,12 +17353,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":5,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17380,12 +17380,12 @@ var stations = {
     "Station Notes":"Youth centre for the town/municipality",
     "Stop Sequence":6,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17407,12 +17407,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":7,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17434,12 +17434,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":8,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17461,12 +17461,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":9,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17488,12 +17488,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":10,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17515,12 +17515,12 @@ var stations = {
     "Station Notes":"Railway museum",
     "Stop Sequence":11,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17542,12 +17542,12 @@ var stations = {
     "Station Notes":"Approximate location",
     "Stop Sequence":12,
     "Line ID":38,
-    "Line Name":"Tallinn—Keila—Haapsalu",
+    "Line Name":"(Tallinn—)Turba—Keila—Haapsalu",
     "Year Opened":1905,
     "Gauge":"1520 mm",
-    "Line Status":"Operational",
+    "Line Status":"Dismantled",
     "Line Status Year":2019,
-    "Line Notes":"Traffic restored to Turba",
+    "Line Notes":"Traffic restored to Turba, reconstruction planned but not scheduled",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17844,7 +17844,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17871,7 +17871,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17898,7 +17898,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17925,7 +17925,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17952,7 +17952,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -17979,7 +17979,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18006,7 +18006,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18033,7 +18033,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18060,7 +18060,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18087,7 +18087,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18114,7 +18114,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18141,7 +18141,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18168,7 +18168,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18195,7 +18195,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18519,7 +18519,7 @@ var stations = {
     "Gauge":"1520 mm",
     "Line Status":"Operational",
     "Line Status Year":2011,
-    "Line Notes":"Southern section rebuilt",
+    "Line Notes":"Southern section rebuilt, seasonal service to Piusa",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18541,12 +18541,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":1,
     "Line ID":41,
-    "Line Name":"Narva—Musta",
+    "Line Name":"(Narva—)Auvere—Musta",
     "Year Opened":1969,
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2001,
-    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Line Notes":"Narva—Auvere section exists with limited service",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18568,12 +18568,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":2,
     "Line ID":41,
-    "Line Name":"Narva—Musta",
+    "Line Name":"(Narva—)Auvere—Musta",
     "Year Opened":1969,
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2001,
-    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Line Notes":"Narva—Auvere section exists with limited service",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18595,12 +18595,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":3,
     "Line ID":41,
-    "Line Name":"Narva—Musta",
+    "Line Name":"(Narva—)Auvere—Musta",
     "Year Opened":1969,
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2001,
-    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Line Notes":"Narva—Auvere section exists with limited service",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18622,12 +18622,12 @@ var stations = {
     "Station Notes":"",
     "Stop Sequence":4,
     "Line ID":41,
-    "Line Name":"Narva—Musta",
+    "Line Name":"(Narva—)Auvere—Musta",
     "Year Opened":1969,
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2001,
-    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Line Notes":"Narva—Auvere section exists with limited service",
     "Is in NP-M":"FALSE"
     }
   },
@@ -18649,12 +18649,12 @@ var stations = {
     "Station Notes":"Part of Estonia powerplant",
     "Stop Sequence":5,
     "Line ID":41,
-    "Line Name":"Narva—Musta",
+    "Line Name":"(Narva—)Auvere—Musta",
     "Year Opened":1969,
     "Gauge":"1520 mm",
     "Line Status":"Dismantled",
     "Line Status Year":2001,
-    "Line Notes":"Rail line between Auvere and power plant dismantled",
+    "Line Notes":"Narva—Auvere section exists with limited service",
     "Is in NP-M":"FALSE"
     }
   },

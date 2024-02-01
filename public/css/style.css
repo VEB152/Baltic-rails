@@ -93,6 +93,7 @@ body {
 #map {
   width: 100%;
   height: 100%;
+  z-index: 0;
 }
 
 /*Legend specific*/
@@ -142,7 +143,29 @@ button {
   height: 50px;
   }
 
-#optionselect1 {
+#optionselect1, #optionselect2, #optionselect3 {
   vertical-align:middle;
-  width: fit-content;
+  width: 200px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+  height: 7ev;
+}
+
+#selmn {
+  display: flex;
+  flex-direction: column;
+}
+
+#selectors {
+  display: flex;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 850px) {
+  #selectors {
+    display: flex;
+    flex-direction: column;
+  }
 }

@@ -143,6 +143,7 @@ L.Layer.prototype.setInteractive = function (interactive) {
     }
 };
 
+//style updates to hide/show markers
 var hidmark = {
     opacity: 0,
     fillOpacity: 0
@@ -153,23 +154,32 @@ var showmark = {
     fillOpacity: 0.8
 };
 
-var selectedOptions = [];
+//actual logic
+var selectedGauges = [];
+var selectedLinStat = [];
+var selectedCountry = [];
 let layers = [act, unc, nrr, gon];
 function cngctr () {
     const opsel = document.getElementById('optionselect1');
-    selectedOptions = Array.from(opsel.options).filter(option => option.selected).map(option => option.value);
+    const lssel = document.getElementById('optionselect2');
+    const ctsel = document.getElementById('optionselect3');
+    selectedGauges = Array.from(opsel.options).filter(option => option.selected).map(option => option.value);
+    selectedLinStat = Array.from(lssel.options).filter(option => option.selected).map(option => option.value);
+    selectedCountry = Array.from(ctsel.options).filter(option => option.selected).map(option => option.value);
     for (const gjlayer of layers){
         gjlayer.eachLayer(function (layer) {
-            if(selectedOptions.includes(layer.feature.properties['Gauge']) == false) {
-                layer.setStyle(hidmark),
-                layer.setInteractive(false)
-            } else {
+            isGsel = selectedGauges.includes(layer.feature.properties['Gauge']);
+            isLSsel = selectedLinStat.includes(layer.feature.properties['Line Status']);
+            isCsel = selectedCountry.includes(layer.feature.properties['Country']);
+            if(isGsel&&isLSsel&&isCsel == true) {
                 layer.setStyle(showmark),
                 layer.setInteractive(true)
+            } else {
+                layer.setStyle(hidmark),
+                layer.setInteractive(false)
             };
         })
     };
-    alert (nation);
 };
 
 //cngctr();
